@@ -1,0 +1,1602 @@
+,uuid,Wave,Section,Row,Age,Gender,Tenure,Ovr_Sat,Team_Sat,Comm_Sat,Comm_Freq,Benefit_Aware
+0,8727635c,2,187,U,45-54,Male,1 season,8,6,7,Just Right,Aware and have used/received
+1,039ec870,2,459,BB,55-64,Male,11-20 season,5,1,5,Too Few,Aware and have NOT used/received
+2,0285d1ef,2,452,X,65+,Female,21+ seasons,10,8,10,Just Right,Unaware
+3,9493589e,2,1,Z,45-54,Female,6-10 season,10,6,2,Just Right,Unaware
+4,d7e0f721,2,410,E,55-64,Male,21+ seasons,5,4,9,Just Right,Aware and have used/received
+5,083379ce,2,69,Q,55-64,Male,1 season,9,9,3,Just Right,Aware and have NOT used/received
+6,258dbc3a,2,512,OO,55-64,Male,21+ seasons,9,6,7,Too Few,Unaware
+7,60a17f41,2,27,A,55-64,Male,21+ seasons,5,1,4,Just Right,Unaware
+8,b0c94e7a,2,190,I,35-44,Female,2-5 season,6,5,1,Just Right,Aware and have NOT used/received
+9,e87ecef1,2,538,A,45-54,Male,21+ seasons,7,2,7,Just Right,Aware and have NOT used/received
+10,712ee8ad,2,515,KK,45-54,Male,11-15 season,6,10,1,Too Many,Aware and have NOT used/received
+11,8d9aa14d,2,528,S,55-64,Female,2-5 season,8,7,8,Just Right,Unaware
+12,40fcbcef,2,332,FF,55-64,Male,21+ seasons,10,7,8,Just Right,Aware and have NOT used/received
+13,9974eb80,2,112,OO,45-54,Female,2-5 season,7,9,2,Too Few,Aware and have NOT used/received
+14,53a33920,2,537,O,25-34,Female,16-20 season,9,7,6,Too Many,Aware and have used/received
+15,3f432563,2,180,Y,65+,Female,2-5 season,4,9,8,Too Many,Aware and have NOT used/received
+16,8b81a384,2,54,G,65+,Female,2-5 season,8,7,3,Just Right,Aware and have NOT used/received
+17,7da5fcd0,2,283,DD,55-64,Male,21+ seasons,7,5,6,Just Right,Aware and have NOT used/received
+18,7f26b381,2,123,C,65+,Male,21+ seasons,10,8,9,Just Right,Aware and have NOT used/received
+19,4a0e4585,2,473,V,55-64,Male,2-5 season,10,10,10,Just Right,Aware and have NOT used/received
+20,14a5e7c2,2,338,NN,45-54,Female,11-15 season,8,1,7,Too Many,Unaware
+21,57172493,2,114,OO,45-54,Female,2-5 season,9,2,10,Too Many,Unaware
+22,589a50d7,2,269,Y,65+,Male,21+ seasons,8,4,10,Just Right,Aware and have used/received
+23,f97dedab,2,294,GG,65+,Male,21+ seasons,8,5,6,Just Right,Aware and have NOT used/received
+24,024e8d99,2,359,DD,65+,Male,21+ seasons,8,7,9,Just Right,Aware and have NOT used/received
+25,d6c1077a,2,73,I,55-64,Male,11-15 season,8,3,3,Just Right,Unaware
+26,99e32168,2,50,G,45-54,Female,16-20 season,4,9,1,Too Few,Aware and have NOT used/received
+27,4acf2819,2,121,R,35-44,Female,11-15 season,10,1,7,Just Right,Unaware
+28,f9688bc4,2,541,J,35-44,Male,6-10 season,7,2,10,Too Many,Unaware
+29,792864df,2,465,Y,45-54,Male,2-5 season,6,6,5,Just Right,Unaware
+30,444657ff,2,361,B,45-54,Prefer not to answer,21+ seasons,8,7,9,Just Right,Aware and have NOT used/received
+31,ebdeecb8,2,434,O,65+,Male,21+ seasons,5,7,2,Too Few,Unaware
+32,39bc1d2b,2,205,AA,45-54,Male,1 season,7,5,8,Just Right,Unaware
+33,0416a675,2,219,X,55-64,Male,21+ seasons,8,5,8,Just Right,Aware and have used/received
+34,faa04c59,2,224,C,55-64,Male,1 season,8,6,7,Just Right,Aware and have NOT used/received
+35,8030baf5,2,365,F,35-44,Male,2-5 season,8,6,10,Just Right,Aware and have used/received
+36,d2014748,2,336,D,35-44,Male,11-20 season,1,1,3,Too Few,Unaware
+37,fa71ff56,2,265,EE,65+,Male,21+ seasons,4,2,1,Too Few,Unaware
+38,454f820f,2,463,L,45-54,Male,2-5 season,10,8,9,Just Right,Unaware
+39,0fffe083,2,508,M,35-44,Female,11-15 season,7,4,7,Too Many,Unaware
+40,d1c86639,2,10,D,65+,Male,21+ seasons,6,1,7,Just Right,Aware and have NOT used/received
+41,c53c4fd5,2,455,A,45-54,Female,16-20 season,7,5,2,Too Many,Unaware
+42,744a2845,2,332,P,65+,Male,21+ seasons,8,5,7,Too Few,Aware and have NOT used/received
+43,4eeb9d19,2,282,X,65+,Female,1 season,9,8,9,Just Right,Aware and have NOT used/received
+44,55709935,2,129,II,65+,Male,11-20 season,3,2,5,Too Few,Unaware
+45,fad52170,2,498,L,25-34,Female,21+ seasons,7,3,6,Too Many,Unaware
+46,4441c2f9,2,503,S,25-34,Female,16-20 season,10,1,5,Too Few,Aware and have NOT used/received
+47,bbb6a9f9,2,407,B,65+,Male,21+ seasons,9,6,10,Just Right,Unaware
+48,8067b2da,2,32,V,55-64,Male,6-10 season,9,3,4,Too Many,Aware and have NOT used/received
+49,80e3e135,2,248,I,35-44,Male,2-5 season,8,4,7,Just Right,Aware and have NOT used/received
+50,ba99e870,2,251,L,55-64,Male,11-20 season,9,7,9,Just Right,Aware and have NOT used/received
+51,4120c697,2,254,T,65+,Female,1 season,5,6,7,Just Right,Unaware
+52,14a3fba8,2,295,L,55-64,Female,2-5 season,6,2,6,Just Right,Aware and have used/received
+53,cb0e0e49,2,103,MM,55-64,Male,2-5 season,10,7,10,Just Right,Unaware
+54,ce6484cc,2,172,A,45-54,Male,11-15 season,9,3,2,Too Few,Unaware
+55,1146777c,2,60,W,55-64,Female,16-20 season,9,5,6,Too Many,Aware and have used/received
+56,b2a900cf,2,293,O,45-54,Male,11-20 season,3,6,5,Just Right,Aware and have NOT used/received
+57,0715a4b9,2,550,L,55-64,Male,21+ seasons,5,4,5,Just Right,Unaware
+58,4e053b6d,2,245,GG,45-54,Male,2-5 season,10,1,6,Just Right,Aware and have used/received
+59,c39bdccb,2,407,H,55-64,Female,1 season,7,6,6,Too Few,Unaware
+60,470654cb,2,301,LL,35-44,Male,6-10 season,5,5,8,Too Few,Aware and have NOT used/received
+61,0456977c,2,419,X,65+,Male,21+ seasons,7,5,7,Just Right,Unaware
+62,49afbe27,2,363,I,35-44,Male,1 season,10,5,10,Just Right,Unaware
+63,7ea88b91,2,144,V,65+,Male,21+ seasons,1,1,1,Too Few,Aware and have NOT used/received
+64,fbdcbdcd,2,342,A,45-54,Male,1 season,3,1,10,Just Right,Aware and have NOT used/received
+65,bd34e19e,2,353,H,55-64,Male,2-5 season,10,7,10,Just Right,Unaware
+66,0f222558,2,264,E,55-64,Male,16-20 season,9,10,8,Too Many,Unaware
+67,7191cd0c,2,98,O,25-34,Female,16-20 season,8,5,8,Too Many,Aware and have NOT used/received
+68,8abafdf4,2,157,M,45-54,Female,11-15 season,6,6,7,Too Many,Aware and have used/received
+69,9f543c69,2,153,M,55-64,Male,2-5 season,9,4,8,Just Right,Aware and have NOT used/received
+70,c6d4f35a,2,428,J,65+,Male,21+ seasons,9,8,10,Just Right,Aware and have NOT used/received
+71,fcc6a52a,2,276,W,55-64,Male,2-5 season,7,7,7,Just Right,Aware and have NOT used/received
+72,841c5a98,2,531,HH,35-44,Male,16-20 season,8,9,8,Too Few,Aware and have NOT used/received
+73,35cf746d,2,132,I,65+,Female,21+ seasons,5,8,9,Just Right,Unaware
+74,ba3aca18,2,531,L,25-34,Female,6-10 season,2,7,3,Too Many,Aware and have NOT used/received
+75,4972a971,2,106,CC,55-64,Female,21+ seasons,4,5,5,Just Right,Aware and have NOT used/received
+76,83990c2c,2,32,J,55-64,Female,16-20 season,6,7,6,Just Right,Unaware
+77,c9bb0014,2,103,W,55-64,Male,2-5 season,8,7,7,Too Few,Unaware
+78,57f70ff1,2,474,E,65+,Female,21+ seasons,8,7,7,Just Right,Aware and have NOT used/received
+79,2be43c3f,2,405,CC,45-54,Female,11-15 season,9,7,4,Too Many,Aware and have NOT used/received
+80,75068387,2,64,X,35-44,Female,16-20 season,10,9,1,Too Few,Aware and have NOT used/received
+81,f33e98fa,2,497,EE,65+,Male,21+ seasons,9,7,10,Just Right,Aware and have NOT used/received
+82,66f63fa2,2,362,J,55-64,Male,11-20 season,8,3,6,Just Right,Aware and have NOT used/received
+83,7ccf6b88,2,175,R,45-54,Male,11-20 season,5,1,7,Just Right,Aware and have NOT used/received
+84,e35a580f,2,428,X,45-54,Male,2-5 season,8,7,9,Just Right,Unaware
+85,b8832332,2,470,S,45-54,Male,2-5 season,9,3,5,Just Right,Aware and have NOT used/received
+86,84288f61,2,456,N,45-54,Male,6-10 season,10,1,7,Just Right,Aware and have NOT used/received
+87,6e814687,2,287,X,25-34,Male,21+ seasons,9,7,6,Too Many,Unaware
+88,0f0564cf,2,350,Z,35-44,Male,2-5 season,9,2,10,Just Right,Unaware
+89,267dddca,2,466,HH,65+,Female,21+ seasons,6,5,7,Just Right,Aware and have NOT used/received
+90,d4bfc793,2,152,EE,25-34,Female,2-5 season,9,2,3,Too Few,Aware and have NOT used/received
+91,25734bb0,2,13,G,45-54,Male,6-10 season,7,10,3,Too Many,Unaware
+92,084e3b78,2,277,NN,55-64,Male,21+ seasons,8,4,1,Too Many,Aware and have NOT used/received
+93,e40c1ae2,2,261,KK,25-34,Male,11-20 season,9,6,10,Just Right,Unaware
+94,858191a6,2,387,BB,65+,Male,21+ seasons,7,5,10,Too Many,Aware and have NOT used/received
+95,67a387be,2,444,G,25-34,Male,21+ seasons,9,6,8,Just Right,Unaware
+96,c0937343,2,288,M,65+,Male,16-20 season,5,4,2,Too Few,Aware and have used/received
+97,bbc31c95,2,131,W,25-34,Male,2-5 season,8,7,10,Just Right,Aware and have NOT used/received
+98,71ef7368,2,406,LL,45-54,Male,2-5 season,9,5,8,Just Right,Unaware
+99,7771b48d,2,174,G,65+,Male,21+ seasons,2,1,7,Just Right,Unaware
+100,7c954068,2,225,M,55-64,Male,2-5 season,10,5,10,Just Right,Unaware
+101,24db7736,2,134,LL,65+,Female,21+ seasons,5,2,5,Just Right,Aware and have NOT used/received
+102,827fd9bc,2,169,E,65+,Male,21+ seasons,5,2,5,Too Few,Unaware
+103,dc142c78,2,391,U,45-54,Male,11-15 season,5,4,6,Too Few,Aware and have used/received
+104,5b1a1c15,2,191,I,65+,Female,6-10 season,10,1,7,Too Many,Aware and have NOT used/received
+105,fa8809b6,2,112,MM,45-54,Female,6-10 season,6,3,5,Just Right,Unaware
+106,d84d6d00,2,307,MM,65+,Female,6-10 season,10,10,10,Just Right,Aware and have used/received
+107,5dc53854,2,453,P,55-64,Female,16-20 season,4,2,7,Too Many,Aware and have NOT used/received
+108,8f28ceda,2,20,E,65+,Male,11-15 season,9,9,3,Just Right,Unaware
+109,8428a3ae,2,485,H,45-54,Female,2-5 season,9,1,6,Too Few,Aware and have NOT used/received
+110,3ccbfa65,2,253,D,65+,Male,21+ seasons,8,5,8,Just Right,Unaware
+111,f37356c9,2,170,I,65+,Male,11-15 season,10,7,5,Just Right,Aware and have NOT used/received
+112,efbe1cad,2,39,G,55-64,Female,16-20 season,7,1,5,Too Few,Aware and have NOT used/received
+113,eaa18949,2,284,Q,45-54,Male,6-10 season,10,3,1,Too Many,Unaware
+114,3b25adef,2,216,Y,35-44,Female,6-10 season,5,1,2,Just Right,Aware and have used/received
+115,f346b667,2,4,U,55-64,Male,21+ seasons,6,1,2,Too Few,Aware and have NOT used/received
+116,be4bc896,2,518,Q,35-44,Male,1 season,8,3,10,Just Right,Aware and have used/received
+117,cb323fa4,2,5,X,45-54,Male,6-10 season,10,6,6,Too Few,Aware and have NOT used/received
+118,9297d5ac,2,99,D,55-64,Male,21+ seasons,9,7,9,Just Right,Unaware
+119,d1a9a7c0,2,436,Y,55-64,Female,16-20 season,6,4,9,Just Right,Unaware
+120,3cac4497,2,506,EE,45-54,Male,2-5 season,9,6,6,Too Few,Unaware
+121,a4736820,2,455,EE,55-64,Male,6-10 season,7,8,7,Just Right,Aware and have NOT used/received
+122,8237470f,2,396,J,55-64,Male,16-20 season,10,8,8,Just Right,Unaware
+123,79a2f8bd,2,266,M,45-54,Male,2-5 season,9,5,8,Just Right,Unaware
+124,bbe59db2,2,271,P,45-54,Female,11-15 season,7,7,5,Too Many,Aware and have NOT used/received
+125,4cdb35dd,2,192,N,55-64,Male,1 season,10,8,10,Just Right,Unaware
+126,04a8e0c5,2,237,Q,45-54,Prefer not to answer,1 season,7,2,6,Just Right,Aware and have NOT used/received
+127,67a8be4b,2,357,S,45-54,Male,11-15 season,7,6,4,Too Many,Aware and have used/received
+128,3c75c115,2,364,CC,25-34,Male,11-15 season,10,6,1,Too Few,Aware and have NOT used/received
+129,eed924b5,2,532,L,45-54,Male,6-10 season,6,9,3,Just Right,Unaware
+130,b4cbf983,2,272,CC,35-44,Female,11-20 season,1,3,1,Too Many,Aware and have NOT used/received
+131,7a165542,2,549,JJ,45-54,Male,11-20 season,7,6,7,Too Many,Aware and have used/received
+132,94d2adc0,2,216,M,45-54,Male,1 season,8,7,9,Just Right,Aware and have NOT used/received
+133,a04c5858,2,10,F,55-64,Male,2-5 season,8,1,3,Too Few,Unaware
+134,d7880e52,2,431,BB,55-64,Male,6-10 season,8,4,8,Just Right,Aware and have NOT used/received
+135,b6da39b7,2,153,E,45-54,Male,1 season,7,3,1,Just Right,Aware and have used/received
+136,033c7b19,2,147,OO,45-54,Male,21+ seasons,10,5,8,Just Right,Aware and have used/received
+137,98ead98a,2,256,U,45-54,Female,6-10 season,10,10,6,Just Right,Aware and have NOT used/received
+138,7891b801,2,440,F,65+,Female,21+ seasons,7,4,4,Too Many,Unaware
+139,6b929b70,2,203,KK,55-64,Female,11-20 season,9,5,9,Just Right,Aware and have used/received
+140,a9aa6791,2,180,S,45-54,Male,11-20 season,8,3,7,Just Right,Unaware
+141,7a64fa0d,2,19,K,45-54,Male,6-10 season,3,7,3,Too Few,Aware and have used/received
+142,36961028,2,63,I,55-64,Male,6-10 season,9,6,7,Just Right,Aware and have used/received
+143,88961af2,2,336,M,45-54,Male,2-5 season,10,7,10,Just Right,Unaware
+144,9f8bf78d,2,549,R,55-64,Male,6-10 season,8,5,8,Too Few,Unaware
+145,6c10dda7,2,56,Z,55-64,Female,16-20 season,5,1,8,Just Right,Unaware
+146,ddd43337,2,457,H,45-54,Female,2-5 season,9,6,9,Too Many,Aware and have used/received
+147,8f593a7d,2,430,V,45-54,Male,11-15 season,10,5,5,Too Many,Unaware
+148,488ce132,2,132,AA,45-54,Female,1 season,9,8,8,Just Right,Aware and have NOT used/received
+149,ddaf39da,2,67,Y,35-44,Female,11-15 season,10,4,4,Too Many,Unaware
+150,91c770b7,2,405,AA,55-64,Male,6-10 season,9,3,2,Too Many,Unaware
+151,3e10d30d,2,98,M,45-54,Male,6-10 season,8,8,8,Just Right,Unaware
+152,64bcdba4,2,319,HH,45-54,Male,11-20 season,8,6,9,Just Right,Aware and have NOT used/received
+153,d5a62192,2,408,C,55-64,Male,6-10 season,7,8,3,Just Right,Aware and have NOT used/received
+154,a9fe4b8b,2,172,GG,55-64,Male,11-20 season,6,1,5,Just Right,Unaware
+155,983e246b,2,324,B,45-54,Male,2-5 season,8,6,7,Too Few,Aware and have NOT used/received
+156,201bf133,2,170,DD,65+,Female,6-10 season,7,10,6,Too Many,Aware and have NOT used/received
+157,6a6cb69c,2,403,K,45-54,Female,21+ seasons,10,9,3,Just Right,Unaware
+158,df4766d1,2,260,DD,65+,Female,6-10 season,10,8,8,Too Few,Aware and have NOT used/received
+159,72432bbc,2,193,H,35-44,Male,1 season,10,5,10,Just Right,Unaware
+160,22c650a0,2,121,L,55-64,Male,11-15 season,8,8,4,Too Many,Unaware
+161,794fae2c,2,301,MM,55-64,Male,11-20 season,7,7,7,Just Right,Aware and have NOT used/received
+162,165s684q,2,124,S,35-44,Male,11-15 season,1,1,3,Just Right,Aware and have used/received
+163,7.37E+06,2,428,H,45-54,Male,6-10 season,9,8,9,Just Right,Unaware
+164,175c8517,2,538,T,45-54,Female,6-10 season,5,1,9,Just Right,Aware and have used/received
+165,add500bd,2,172,N,45-54,Male,2-5 season,10,5,7,Just Right,Aware and have used/received
+166,0648d908,2,398,F,65+,Male,2-5 season,10,6,10,Just Right,Aware and have NOT used/received
+167,f4203e00,2,375,AA,45-54,Male,11-20 season,8,2,6,Just Right,Unaware
+168,07becf2e,2,175,W,45-54,Male,1 season,8,3,5,Too Many,Aware and have NOT used/received
+169,2967d346,2,366,FF,45-54,Female,2-5 season,5,5,9,Too Few,Unaware
+170,0b2868eb,2,439,N,55-64,Male,21+ seasons,10,8,10,Just Right,Aware and have NOT used/received
+171,132db205,2,542,E,45-54,Male,2-5 season,10,5,10,Just Right,Aware and have NOT used/received
+172,28158da6,2,24,A,55-64,Male,2-5 season,10,9,10,Just Right,Aware and have used/received
+173,ee94c377,2,199,G,55-64,Male,11-20 season,10,8,10,Just Right,Aware and have NOT used/received
+174,a75cf04d,2,266,Q,65+,Male,21+ seasons,5,6,7,Just Right,Unaware
+175,c15bb785,2,165,F,45-54,Female,2-5 season,7,6,5,Just Right,Unaware
+176,c58c2fca,2,292,GG,55-64,Male,11-20 season,5,6,3,Too Few,Aware and have NOT used/received
+177,f7b5c841,2,528,KK,45-54,Female,11-15 season,3,7,7,Too Many,Aware and have used/received
+178,07c34824,2,165,B,35-44,Female,6-10 season,8,8,7,Too Few,Unaware
+179,52275efa,2,340,OO,65+,Male,1 season,8,3,8,Too Few,Unaware
+180,ef050866,2,216,K,55-64,Male,2-5 season,10,2,2,Too Many,Unaware
+181,9d46b2b5,2,203,II,65+,Female,21+ seasons,7,5,7,Just Right,Unaware
+182,37171ab5,2,518,JJ,45-54,Female,11-15 season,8,5,1,Just Right,Unaware
+183,7c619dd4,2,343,M,55-64,Male,21+ seasons,7,3,1,Just Right,Unaware
+184,266f2845,2,172,E,55-64,Female,2-5 season,8,3,7,Too Many,Aware and have used/received
+185,5ba02bd4,2,432,EE,45-54,Male,11-20 season,5,9,6,Too Few,Unaware
+186,08d53837,2,286,S,65+,Male,21+ seasons,7,4,8,Too Many,Aware and have NOT used/received
+187,bfc842e0,2,291,JJ,25-34,Male,11-15 season,6,10,10,Too Few,Aware and have used/received
+188,b4188cc6,2,250,L,45-54,Female,11-20 season,8,5,10,Just Right,Unaware
+189,3bcd094b,2,214,L,55-64,Female,6-10 season,10,9,6,Just Right,Aware and have NOT used/received
+190,8be9026c,2,305,FF,65+,Female,11-20 season,10,8,10,Too Few,Aware and have NOT used/received
+191,935b362b,2,133,Z,35-44,Male,11-15 season,8,9,10,Too Many,Unaware
+192,fd8bbb02,2,536,O,65+,Male,11-20 season,9,1,7,Just Right,Unaware
+193,41c0176a,2,496,W,45-54,Male,6-10 season,10,10,7,Just Right,Aware and have NOT used/received
+194,db1bec69,2,217,W,45-54,Male,2-5 season,7,5,9,Just Right,Unaware
+195,d41df309,2,503,EE,45-54,Female,11-15 season,5,3,4,Too Few,Unaware
+196,fa0d3751,2,351,O,55-64,Male,1 season,8,3,10,Too Many,Unaware
+197,d61aa302,2,418,F,65+,Female,2-5 season,8,2,7,Just Right,Unaware
+198,0s1561a01,2,410,Y,55-64,Female,1 season,2,1,1,Too Many,Unaware
+199,40dda1e7,2,112,B,45-54,Male,1 season,10,6,10,Just Right,Aware and have NOT used/received
+200,dacdec2e,2,199,J,65+,Male,21+ seasons,10,6,10,Just Right,Aware and have NOT used/received
+201,9fe4ee84,2,332,JJ,45-54,Female,11-15 season,10,5,9,Too Many,Unaware
+202,89954018,2,82,B,Prefer not to answer,Female,21+ seasons,10,6,7,Too Few,Unaware
+203,55fe623e,2,140,P,65+,Male,11-20 season,7,6,9,Too Few,Unaware
+204,aadb9977,2,406,JJ,45-54,Female,21+ seasons,10,10,10,Just Right,Unaware
+205,d79387b4,2,229,J,55-64,Male,2-5 season,7,7,8,Just Right,Unaware
+206,d9fd5805,2,450,K,55-64,Female,2-5 season,4,10,5,Too Many,Aware and have used/received
+207,fe333f15,2,545,MM,55-64,Male,2-5 season,7,6,8,Just Right,Aware and have used/received
+208,0d2e6a54,2,532,R,55-64,Male,1 season,10,1,5,Too Many,Unaware
+209,74611de7,2,421,BB,45-54,Male,11-15 season,8,9,3,Too Few,Unaware
+210,60ab43aa,2,419,NN,65+,Female,21+ seasons,8,8,8,Just Right,Aware and have NOT used/received
+211,9aaa2cf9,2,1,Q,35-44,Male,2-5 season,10,8,1,Just Right,Aware and have NOT used/received
+212,9.06E+81,2,222,X,45-54,Male,2-5 season,9,5,7,Just Right,Unaware
+213,e9006dfe,2,179,N,65+,Male,21+ seasons,9,8,10,Just Right,Aware and have NOT used/received
+214,e4b32bd5,2,291,BB,45-54,Male,6-10 season,10,10,10,Too Few,Unaware
+215,ec4a78e8,2,291,P,35-44,Male,1 season,9,6,6,Just Right,Unaware
+216,745395b5,2,499,O,65+,Male,1 season,9,7,5,Too Many,Aware and have NOT used/received
+217,2e9b323a,2,221,W,35-44,Male,2-5 season,10,10,10,Just Right,Aware and have NOT used/received
+218,7c6763d1,2,484,DD,45-54,Male,11-15 season,9,5,1,Just Right,Unaware
+219,0b1ec6ad,2,238,II,35-44,Male,16-20 season,5,4,8,Too Few,Aware and have NOT used/received
+220,a635fe08,2,331,U,45-54,Male,6-10 season,8,4,5,Just Right,Aware and have NOT used/received
+221,f657d926,2,452,I,55-64,Male,6-10 season,9,9,9,Too Many,Aware and have used/received
+222,c5d4bcbd,2,82,O,55-64,Female,6-10 season,10,7,8,Just Right,Aware and have NOT used/received
+223,4a40eda7,2,151,BB,65+,Male,2-5 season,7,8,10,Just Right,Aware and have NOT used/received
+224,9e84f58a,2,79,R,Prefer not to answer,Male,21+ seasons,9,6,9,Just Right,Unaware
+225,0beb3ead,2,253,KK,45-54,Male,1 season,5,5,9,Just Right,Aware and have NOT used/received
+226,fa995465,2,243,HH,25-34,Male,2-5 season,6,10,4,Too Few,Aware and have NOT used/received
+227,e16f0747,2,424,BB,55-64,Male,2-5 season,10,8,10,Just Right,Unaware
+228,1227b7f5,2,148,R,25-34,Male,2-5 season,9,5,9,Just Right,Aware and have NOT used/received
+229,a15acde0,2,317,OO,55-64,Male,6-10 season,10,5,10,Just Right,Unaware
+230,26064170,2,130,J,35-44,Female,6-10 season,2,10,6,Too Few,Aware and have NOT used/received
+231,d4c428a1,2,285,F,45-54,Female,21+ seasons,2,10,4,Just Right,Unaware
+232,4470031f,2,18,G,65+,Male,21+ seasons,2,6,1,Too Few,Aware and have used/received
+233,1e8f8231,2,357,X,55-64,Female,21+ seasons,5,3,3,Too Few,Unaware
+234,4fb3786f,2,298,S,65+,Male,11-15 season,3,4,3,Just Right,Aware and have NOT used/received
+235,9054670,2,281,CC,45-54,Female,6-10 season,8,5,6,Too Many,Aware and have NOT used/received
+236,2952384f,2,448,D,55-64,Male,16-20 season,2,9,5,Too Many,Unaware
+237,2d9878ac,2,550,G,35-44,Male,2-5 season,5,1,4,Just Right,Unaware
+238,8ae9f9d9,2,543,J,45-54,Male,11-20 season,9,7,9,Just Right,Unaware
+239,b2088c3c,2,317,A,65+,Male,2-5 season,10,3,8,Too Few,Aware and have NOT used/received
+240,2fbf8617,2,547,MM,45-54,Male,21+ seasons,2,3,4,Too Few,Aware and have NOT used/received
+241,5e17b5ec,2,309,V,45-54,Male,2-5 season,7,5,7,Just Right,Unaware
+242,973bade7,2,531,FF,65+,Female,1 season,5,6,10,Too Many,Unaware
+243,b7c5ea7d,2,521,OO,45-54,Female,1 season,10,7,10,Just Right,Aware and have NOT used/received
+244,4814e860,2,299,A,45-54,Male,2-5 season,1,7,7,Just Right,Unaware
+245,b85f890e,2,544,X,65+,Female,6-10 season,8,7,10,Too Few,Aware and have used/received
+246,b2ad2861,2,285,HH,55-64,Male,2-5 season,8,6,9,Just Right,Unaware
+247,3e25418c,2,214,AA,65+,Female,2-5 season,10,7,10,Too Few,Aware and have NOT used/received
+248,dc9973e6,2,271,E,25-34,Female,6-10 season,10,6,10,Just Right,Aware and have NOT used/received
+249,6d6dfbe2,2,222,N,55-64,Female,11-15 season,8,5,7,Too Many,Unaware
+250,c0a9f71e,2,453,AA,45-54,Male,2-5 season,10,5,10,Just Right,Unaware
+251,e4f1486a,2,195,C,55-64,Male,11-20 season,9,4,7,Just Right,Aware and have NOT used/received
+252,39c2f680,2,355,U,35-44,Female,11-15 season,7,1,6,Just Right,Aware and have NOT used/received
+253,7246bba5,2,549,P,55-64,Female,11-20 season,3,5,5,Just Right,Aware and have NOT used/received
+254,1809f756,2,291,C,45-54,Male,11-20 season,9,8,9,Just Right,Aware and have NOT used/received
+255,c5498488,2,288,K,55-64,Male,11-20 season,3,7,8,Just Right,Aware and have NOT used/received
+256,5896aaa7,2,456,HH,45-54,Male,2-5 season,5,3,10,Just Right,Unaware
+257,b706a95f,2,385,HH,35-44,Female,2-5 season,9,2,6,Just Right,Aware and have NOT used/received
+258,209ed947,2,165,K,35-44,Male,11-15 season,8,6,4,Too Few,Aware and have NOT used/received
+259,9a429b32,2,476,X,45-54,Female,6-10 season,4,9,8,Too Many,Unaware
+260,2c3ec7fc,2,167,GG,65+,Male,21+ seasons,7,5,7,Just Right,Unaware
+261,0545ba00,2,224,GG,35-44,Male,21+ seasons,4,5,10,Too Many,Aware and have NOT used/received
+262,a0eaf786,2,200,S,55-64,Female,11-20 season,8,7,7,Just Right,Aware and have used/received
+263,a62985da,2,303,Y,45-54,Male,6-10 season,9,7,8,Just Right,Aware and have NOT used/received
+264,a5a36444,2,182,L,55-64,Male,11-20 season,7,7,9,Just Right,Unaware
+265,6db929f6,2,362,G,45-54,Male,2-5 season,8,2,7,Too Few,Unaware
+266,8118e9a8,2,302,AA,55-64,Male,1 season,7,4,7,Just Right,Unaware
+267,c85d22c9,2,184,FF,45-54,Male,6-10 season,9,3,8,Just Right,Aware and have NOT used/received
+268,4a7a563e,2,337,LL,45-54,Male,1 season,8,5,6,Too Few,Unaware
+269,7942b76f,2,7,L,45-54,Female,2-5 season,6,5,5,Too Many,Aware and have NOT used/received
+270,cacb5f6e,2,377,M,45-54,Male,11-15 season,10,2,1,Too Few,Aware and have NOT used/received
+271,351189dd,2,495,I,45-54,Female,6-10 season,9,10,7,Too Few,Unaware
+272,209ed83b,2,504,I,65+,Male,21+ seasons,1,7,8,Too Few,Aware and have NOT used/received
+273,1ed04b6a,2,346,NN,45-54,Male,6-10 season,8,4,8,Just Right,Unaware
+274,cce2b2fd,2,143,U,45-54,Male,1 season,6,5,6,Too Few,Unaware
+275,020ce624,2,242,P,25-34,Male,16-20 season,8,5,7,Too Many,Unaware
+276,b955b195,2,495,DD,25-34,Male,2-5 season,10,3,10,Just Right,Unaware
+277,7b65e107,2,520,FF,65+,Female,2-5 season,9,4,6,Too Few,Unaware
+278,1e993b48,2,240,AA,45-54,Female,6-10 season,8,1,7,Too Many,Aware and have NOT used/received
+279,e28088b7,2,194,M,25-34,Male,16-20 season,8,2,5,Too Many,Unaware
+280,86da18d8,2,441,NN,55-64,Male,21+ seasons,2,10,4,Just Right,Unaware
+281,8a82c443,2,498,M,55-64,Male,21+ seasons,8,8,8,Too Few,Unaware
+282,86cfa769,2,464,H,55-64,Female,11-20 season,6,7,4,Too Many,Unaware
+283,4fc33395,2,439,G,55-64,Male,21+ seasons,10,8,10,Just Right,Unaware
+284,b045e030,2,517,MM,45-54,Female,6-10 season,8,5,7,Just Right,Aware and have NOT used/received
+285,91cab852,2,25,Y,65+,Male,2-5 season,3,9,6,Too Many,Unaware
+286,4fa161be,2,394,S,45-54,Female,11-15 season,5,3,10,Just Right,Aware and have used/received
+287,c950e807,2,137,V,55-64,Male,21+ seasons,8,7,8,Just Right,Unaware
+288,68e9953c,2,178,Q,45-54,Male,2-5 season,5,3,8,Too Many,Aware and have NOT used/received
+289,0b93a56a,2,417,CC,65+,Male,11-20 season,10,2,7,Just Right,Aware and have NOT used/received
+290,6a2be59b,2,306,G,65+,Male,21+ seasons,6,3,2,Too Few,Aware and have NOT used/received
+291,08ca778d,2,539,I,55-64,Male,21+ seasons,10,10,10,Too Few,Unaware
+292,9dc7e81c,2,244,Y,45-54,Female,2-5 season,10,6,3,Just Right,Aware and have used/received
+293,7c1b4505,2,222,EE,55-64,Female,6-10 season,10,9,10,Just Right,Aware and have NOT used/received
+294,f5512626,2,220,O,35-44,Male,2-5 season,7,5,8,Just Right,Unaware
+295,a6ea543d,2,272,GG,55-64,Male,11-20 season,9,8,9,Just Right,Unaware
+296,37c88b21,2,55,T,25-34,Male,11-15 season,9,2,7,Too Many,Unaware
+297,929d20ea,2,23,P,55-64,Female,11-15 season,6,2,2,Too Few,Aware and have NOT used/received
+298,b502fc48,2,263,L,65+,Male,21+ seasons,8,5,9,Just Right,Unaware
+299,50a3c47e,2,428,D,55-64,Female,2-5 season,10,7,9,Just Right,Unaware
+300,7875349b,2,361,MM,45-54,Prefer not to answer,6-10 season,9,7,8,Just Right,Aware and have NOT used/received
+301,99e6246b,2,480,EE,45-54,Male,1 season,10,8,9,Just Right,Aware and have NOT used/received
+302,65ac8f47,2,419,D,45-54,Male,6-10 season,7,7,9,Just Right,Unaware
+303,3b29872f,2,440,U,55-64,Female,2-5 season,7,5,7,Just Right,Unaware
+304,456d3a59,2,422,D,45-54,Male,11-20 season,7,6,7,Just Right,Unaware
+305,e4a1e9a5,2,166,P,45-54,Female,21+ seasons,10,8,10,Just Right,Aware and have NOT used/received
+306,2540885e,2,533,I,55-64,Male,21+ seasons,7,7,7,Just Right,Unaware
+307,8757983c,2,475,Q,35-44,Female,2-5 season,8,6,9,Just Right,Unaware
+308,e440d52b,2,89,B,55-64,Female,2-5 season,9,7,8,Too Many,Aware and have used/received
+309,221e74ed,2,154,GG,25-34,Female,2-5 season,9,3,7,Just Right,Aware and have NOT used/received
+310,aff642ee,2,404,AA,65+,Male,6-10 season,8,3,9,Just Right,Aware and have NOT used/received
+311,c3cdaafa,2,52,C,65+,Female,2-5 season,8,10,8,Too Few,Unaware
+312,3a81e03f,2,132,GG,65+,Male,6-10 season,8,8,5,Too Few,Unaware
+313,ac70b42c,2,356,L,45-54,Male,6-10 season,8,7,8,Just Right,Aware and have used/received
+314,674bc6ec,2,134,U,65+,Male,6-10 season,7,6,6,Just Right,Aware and have used/received
+315,b65c857c,2,23,Y,65+,Female,2-5 season,7,6,9,Just Right,Unaware
+316,7ad810d9,2,93,Z,25-34,Male,2-5 season,8,8,8,Just Right,Aware and have NOT used/received
+317,66fa6c26,2,445,CC,65+,Male,21+ seasons,7,1,10,Just Right,Aware and have NOT used/received
+318,c8e98d23,2,464,K,25-34,Female,11-15 season,1,9,10,Too Many,Aware and have NOT used/received
+319,fbcaf686,2,247,S,25-34,Male,2-5 season,8,10,8,Too Few,Unaware
+320,93fc2d42,2,453,Z,25-34,Male,21+ seasons,9,6,9,Just Right,Unaware
+321,0361f387,2,426,V,25-34,Male,16-20 season,7,10,9,Too Many,Aware and have NOT used/received
+322,424dd698,2,153,B,55-64,Male,21+ seasons,5,1,9,Just Right,Aware and have NOT used/received
+323,27ba5a79,2,547,W,65+,Male,1 season,8,8,7,Too Few,Aware and have NOT used/received
+324,40b73339,2,32,X,45-54,Female,21+ seasons,6,9,5,Too Few,Unaware
+325,e0725861,2,469,C,65+,Female,21+ seasons,9,5,10,Just Right,Unaware
+326,d90274d6,2,497,GG,45-54,Male,6-10 season,7,6,8,Too Many,Aware and have used/received
+327,400b1f8b,2,148,P,45-54,Male,11-20 season,9,6,7,Just Right,Aware and have NOT used/received
+328,5b58e6e7,2,426,OO,65+,Female,21+ seasons,8,6,9,Just Right,Unaware
+329,9dda7c7b,2,449,KK,35-44,Female,1 season,8,9,8,Just Right,Aware and have NOT used/received
+330,15fe9d51,2,63,T,45-54,Male,2-5 season,10,8,8,Just Right,Aware and have used/received
+331,c42f4291,2,378,I,55-64,Female,6-10 season,7,6,9,Too Few,Aware and have NOT used/received
+332,139044ed,2,333,Y,55-64,Female,21+ seasons,7,5,2,Too Many,Unaware
+333,dc046fe2,2,408,AA,55-64,Male,11-15 season,8,8,3,Too Few,Unaware
+334,8d525475,2,22,S,55-64,Male,11-20 season,5,3,7,Too Few,Unaware
+335,4c1b813a,2,373,CC,55-64,Male,6-10 season,1,5,7,Too Few,Unaware
+336,b554d316,2,123,II,65+,Male,11-20 season,1,5,1,Too Few,Aware and have NOT used/received
+337,5c3ccd6d,2,144,CC,45-54,Male,11-15 season,3,1,9,Just Right,Aware and have NOT used/received
+338,6d9896eb,2,303,HH,55-64,Male,21+ seasons,9,5,8,Too Few,Aware and have NOT used/received
+339,74e257e4,2,543,FF,45-54,Male,21+ seasons,4,9,5,Too Few,Aware and have NOT used/received
+340,ba193788,2,302,K,55-64,Male,6-10 season,7,2,7,Just Right,Aware and have used/received
+341,2d73baef,2,517,O,25-34,Female,11-15 season,6,8,9,Just Right,Unaware
+342,c13c6df2,2,365,C,65+,Male,11-15 season,10,1,9,Just Right,Aware and have NOT used/received
+343,0cf2af69,2,45,Y,45-54,Male,2-5 season,7,5,6,Too Few,Unaware
+344,fcd884d3,2,329,L,35-44,Male,1 season,10,9,10,Just Right,Aware and have NOT used/received
+345,7803f3f4,2,411,BB,25-34,Female,6-10 season,5,7,10,Just Right,Aware and have NOT used/received
+346,5dedfcd4,2,436,T,65+,Male,1 season,7,3,7,Just Right,Aware and have NOT used/received
+347,d27dd21e,2,155,V,65+,Male,21+ seasons,7,5,7,Just Right,Aware and have NOT used/received
+348,674f9c27,2,201,I,45-54,Male,11-20 season,7,6,7,Just Right,Aware and have NOT used/received
+349,fea2f0cc,2,6,B,55-64,Female,2-5 season,8,1,9,Too Few,Unaware
+350,682665a7,2,487,L,45-54,Male,11-20 season,8,2,9,Just Right,Unaware
+351,692edf83,2,203,CC,35-44,Female,1 season,8,8,7,Just Right,Unaware
+352,a0beec15,2,162,O,65+,Male,2-5 season,7,3,6,Too Few,Aware and have NOT used/received
+353,bc00de0a,2,501,S,25-34,Male,16-20 season,6,4,2,Too Many,Aware and have NOT used/received
+354,0eb51088,2,403,W,65+,Female,21+ seasons,5,5,5,Just Right,Aware and have NOT used/received
+355,b4c1d737,2,113,O,35-44,Female,1 season,6,1,6,Just Right,Unaware
+356,a677e67a,2,146,MM,45-54,Female,21+ seasons,8,7,6,Too Few,Aware and have used/received
+357,9be20dc8,2,335,O,55-64,Male,11-20 season,9,5,7,Just Right,Unaware
+358,52d82c15,2,424,OO,45-54,Male,21+ seasons,2,5,3,Just Right,Unaware
+359,4bd1fcb1,2,15,D,55-64,Male,11-15 season,8,8,1,Too Many,Unaware
+360,b59bc2c2,2,361,II,65+,Male,2-5 season,6,6,8,Just Right,Aware and have NOT used/received
+361,as1156dg,2,111,U,25-34,Female,1 season,3,1,1,Too Many,Unaware
+362,59b875ff,2,479,HH,45-54,Male,1 season,10,6,10,Just Right,Unaware
+363,1e8b0f7c,2,191,A,45-54,Male,16-20 season,8,8,2,Just Right,Unaware
+364,486d21c1,2,351,P,65+,Female,11-15 season,5,1,7,Too Few,Aware and have NOT used/received
+365,2bf62448,2,14,L,45-54,Male,2-5 season,9,9,7,Too Many,Unaware
+366,3d136353,2,355,B,45-54,Female,21+ seasons,8,5,4,Just Right,Unaware
+367,d086b06c,2,132,X,55-64,Female,11-15 season,10,1,9,Too Many,Unaware
+368,86858067,2,217,U,45-54,Female,2-5 season,5,3,6,Too Few,Unaware
+369,88b07930,2,492,N,65+,Male,21+ seasons,8,6,8,Just Right,Unaware
+370,a61d288b,2,421,NN,45-54,Female,11-15 season,8,10,8,Too Few,Unaware
+371,ffc1e6fe,2,238,R,45-54,Male,2-5 season,9,4,6,Too Few,Aware and have used/received
+372,e60f8f02,2,210,JJ,55-64,Female,21+ seasons,10,6,2,Too Few,Unaware
+373,f9de5738,2,299,S,35-44,Male,1 season,7,5,6,Just Right,Unaware
+374,6bd43980,2,72,O,55-64,Male,2-5 season,10,6,1,Just Right,Unaware
+375,60cfe095,2,513,H,65+,Male,21+ seasons,4,7,6,Just Right,Unaware
+376,25db0520,2,401,Y,45-54,Male,11-15 season,10,5,1,Too Many,Unaware
+377,88387627,2,404,U,55-64,Female,21+ seasons,10,6,8,Just Right,Unaware
+378,c9ab174b,2,457,F,45-54,Male,2-5 season,8,1,8,Just Right,Unaware
+379,777d0493,2,63,O,45-54,Male,21+ seasons,7,10,5,Too Few,Aware and have NOT used/received
+380,38a64c5b,2,543,D,65+,Male,16-20 season,7,5,10,Too Few,Aware and have NOT used/received
+381,f2ae130f,2,377,OO,65+,Male,16-20 season,7,8,5,Too Many,Aware and have NOT used/received
+382,98f00197,2,364,A,65+,Male,21+ seasons,8,5,5,Just Right,Aware and have used/received
+383,46f75a93,2,379,Q,65+,Male,21+ seasons,9,7,9,Just Right,Aware and have NOT used/received
+384,6b94520a,2,413,Y,35-44,Male,2-5 season,9,6,8,Just Right,Unaware
+385,1e705595,2,374,OO,55-64,Male,21+ seasons,3,3,4,Just Right,Unaware
+386,0cd4d4fa,2,117,U,65+,Male,2-5 season,8,4,7,Just Right,Aware and have used/received
+387,0ec978f0,2,114,B,45-54,Male,2-5 season,10,5,9,Too Few,Unaware
+388,f8011cfb,2,535,O,55-64,Male,6-10 season,7,6,6,Too Few,Aware and have used/received
+389,7026f59f,2,491,JJ,55-64,Male,21+ seasons,7,1,5,Too Few,Aware and have NOT used/received
+390,3e8f4ff5,2,178,NN,65+,Male,11-20 season,8,4,7,Just Right,Aware and have NOT used/received
+391,30d54f1b,2,290,D,55-64,Female,1 season,9,5,4,Too Few,Unaware
+392,08c9ba44,2,348,J,45-54,Male,6-10 season,10,3,3,Too Many,Aware and have used/received
+393,8093fff3,2,257,E,Prefer not to answer,Prefer not to answer,11-20 season,5,5,6,Just Right,Aware and have NOT used/received
+394,653d8b87,2,457,AA,25-34,Female,2-5 season,8,4,5,Too Many,Aware and have NOT used/received
+395,d8a16c8a,2,43,B,55-64,Male,11-15 season,9,10,1,Just Right,Unaware
+396,550740f5,2,8,Z,55-64,Male,21+ seasons,10,5,5,Too Few,Unaware
+397,d995fa2a,2,526,T,65+,Male,11-20 season,10,10,8,Too Few,Aware and have NOT used/received
+398,5e0402ef,2,485,Y,45-54,Female,6-10 season,3,3,7,Too Many,Unaware
+399,a9509f0f,2,223,NN,65+,Male,11-15 season,3,2,8,Just Right,Unaware
+400,547169d3,2,175,II,55-64,Male,21+ seasons,1,3,3,Too Few,Unaware
+401,5ac450c7,2,508,OO,55-64,Male,11-15 season,7,9,3,Too Few,Unaware
+402,f5d6966b,2,137,NN,65+,Male,21+ seasons,7,7,7,Just Right,Unaware
+403,cafeb14b,2,18,X,55-64,Female,6-10 season,9,3,10,Just Right,Unaware
+404,c96d63e6,2,384,L,65+,Female,21+ seasons,5,5,5,Just Right,Unaware
+405,4dd5c491,2,176,O,45-54,Male,2-5 season,8,7,8,Just Right,Unaware
+406,bd331d73,2,249,X,55-64,Male,2-5 season,5,10,9,Too Few,Aware and have NOT used/received
+407,ef811ccd,2,236,LL,65+,Male,21+ seasons,8,5,7,Just Right,Unaware
+408,6a76b3a5,2,135,X,45-54,Male,2-5 season,7,5,7,Just Right,Unaware
+409,45d8da83,2,224,B,65+,Male,6-10 season,9,5,9,Just Right,Unaware
+410,4c6a5b1e,2,156,NN,45-54,Female,1 season,9,7,3,Too Many,Unaware
+411,7be17f04,2,454,V,65+,Female,2-5 season,9,1,10,Too Few,Aware and have NOT used/received
+412,1870551f,2,488,Z,55-64,Male,21+ seasons,9,6,7,Just Right,Unaware
+413,a3b5449f,2,89,Z,55-64,Male,6-10 season,10,2,7,Too Few,Aware and have NOT used/received
+414,53876ba9,2,404,JJ,45-54,Male,2-5 season,8,8,9,Too Few,Aware and have NOT used/received
+415,ed9d87a3,2,314,C,65+,Male,2-5 season,6,7,5,Too Few,Aware and have NOT used/received
+416,98659d73,2,240,B,65+,Female,1 season,10,5,8,Too Few,Unaware
+417,cdfefcca,2,518,EE,55-64,Female,21+ seasons,2,4,8,Just Right,Unaware
+418,d06ccde6,2,262,W,35-44,Male,6-10 season,7,5,4,Just Right,Unaware
+419,f4914246,2,148,K,35-44,Male,2-5 season,9,8,7,Too Many,Aware and have NOT used/received
+420,3ac1ba0d,2,523,H,65+,Male,21+ seasons,8,7,7,Just Right,Unaware
+421,af1ffd70,2,501,J,55-64,Female,2-5 season,9,1,7,Too Many,Aware and have NOT used/received
+422,ccc6c0c3,2,188,OO,65+,Male,21+ seasons,10,7,7,Just Right,Unaware
+423,62e548ac,2,217,JJ,55-64,Male,6-10 season,7,3,8,Just Right,Aware and have NOT used/received
+424,3419b452,2,167,V,35-44,Male,6-10 season,3,6,9,Just Right,Unaware
+425,c0067212,2,190,CC,65+,Male,21+ seasons,6,2,3,Just Right,Unaware
+426,2235500e,2,243,M,45-54,Male,6-10 season,5,9,10,Too Few,Aware and have NOT used/received
+427,b00e115f,2,484,H,55-64,Female,2-5 season,9,4,10,Just Right,Unaware
+428,f65cca5a,2,371,F,55-64,Female,21+ seasons,5,6,7,Just Right,Unaware
+429,f64b2939,2,161,JJ,65+,Male,21+ seasons,5,5,7,Too Few,Unaware
+430,07ca3b4f,2,60,A,55-64,Male,11-20 season,5,6,7,Just Right,Unaware
+431,60cffced,2,527,E,35-44,Male,11-15 season,9,9,9,Too Few,Unaware
+432,920ebdd6,2,529,Y,45-54,Male,21+ seasons,6,5,5,Too Few,Unaware
+433,70754f29,2,316,U,55-64,Female,6-10 season,8,7,3,Too Few,Aware and have used/received
+434,dd3ecd5a,2,449,JJ,35-44,Male,6-10 season,6,5,7,Just Right,Aware and have NOT used/received
+435,c33f985c,2,534,P,45-54,Male,21+ seasons,2,5,8,Too Few,Unaware
+436,22e05191,2,9,B,55-64,Male,2-5 season,8,8,3,Too Many,Aware and have NOT used/received
+437,0a492722,2,325,FF,35-44,Female,11-15 season,9,1,4,Just Right,Aware and have NOT used/received
+438,1870b02b,2,50,S,65+,Male,11-20 season,9,4,8,Just Right,Aware and have used/received
+439,8dae6711,2,97,S,55-64,Female,21+ seasons,6,5,6,Too Few,Unaware
+440,0196f8e9,2,332,X,45-54,Female,1 season,9,4,8,Just Right,Aware and have used/received
+441,c3f27cbc,2,252,FF,55-64,Male,21+ seasons,6,2,6,Too Few,Aware and have NOT used/received
+442,266d947c,2,372,GG,45-54,Male,1 season,10,7,9,Just Right,Aware and have NOT used/received
+443,b8f318ae,2,365,II,65+,Male,21+ seasons,8,8,10,Just Right,Unaware
+444,270cb830,2,148,G,55-64,Male,21+ seasons,2,1,7,Just Right,Unaware
+445,0801eddb,2,334,P,65+,Male,21+ seasons,6,8,10,Just Right,Unaware
+446,d642f35c,2,314,E,45-54,Male,2-5 season,9,7,9,Just Right,Aware and have NOT used/received
+447,0380bd55,2,230,KK,65+,Male,21+ seasons,7,8,8,Just Right,Aware and have NOT used/received
+448,eac5e96d,2,172,V,45-54,Male,2-5 season,8,7,9,Just Right,Aware and have used/received
+449,39bdb037,2,420,K,25-34,Male,2-5 season,10,10,2,Just Right,Aware and have used/received
+450,358d5f9e,2,487,T,45-54,Female,11-15 season,4,7,10,Too Many,Aware and have NOT used/received
+451,49b457dc,2,197,V,65+,Male,21+ seasons,8,6,8,Just Right,Aware and have NOT used/received
+452,8cc6557b,2,299,U,45-54,Male,1 season,9,7,8,Just Right,Unaware
+453,fb5ccd3f,2,384,II,35-44,Male,21+ seasons,8,7,7,Too Few,Unaware
+454,2c56acf6,2,238,P,45-54,Male,2-5 season,9,9,9,Just Right,Unaware
+455,3c960268,2,345,JJ,45-54,Female,2-5 season,9,7,5,Too Few,Aware and have NOT used/received
+456,e3b39cfa,2,286,G,65+,Male,21+ seasons,8,1,6,Too Few,Unaware
+457,3161f114,2,65,Y,25-34,Male,6-10 season,9,5,2,Just Right,Unaware
+458,13f344dd,2,307,W,65+,Female,21+ seasons,8,5,8,Just Right,Unaware
+459,5768a03b,2,116,U,45-54,Male,6-10 season,5,4,5,Too Many,Unaware
+460,00c913f8,2,345,C,55-64,Male,2-5 season,8,2,7,Just Right,Unaware
+461,f1510b52,2,470,N,65+,Female,6-10 season,7,7,7,Too Many,Aware and have used/received
+462,99e76b58,2,484,H,45-54,Male,6-10 season,8,5,7,Too Many,Aware and have NOT used/received
+463,59c613bc,2,482,R,45-54,Female,1 season,7,2,4,Too Many,Unaware
+464,540fb1c0,2,214,NN,35-44,Female,6-10 season,7,8,9,Too Few,Unaware
+465,0c67bfab,2,147,BB,65+,Female,11-15 season,10,1,2,Just Right,Unaware
+466,aa25fb56,2,330,K,45-54,Male,1 season,7,7,8,Just Right,Unaware
+467,ad8e1770,2,344,LL,65+,Female,6-10 season,8,6,8,Too Many,Aware and have NOT used/received
+468,17993b23,2,64,Z,45-54,Female,21+ seasons,5,7,1,Too Few,Unaware
+469,e2dde1a7,2,410,L,45-54,Prefer not to answer,21+ seasons,8,1,6,Just Right,Unaware
+470,702e480a,2,475,AA,35-44,Female,2-5 season,10,8,10,Too Few,Unaware
+471,4f48cc51,2,1,I,65+,Male,21+ seasons,6,2,2,Too Many,Unaware
+472,e5ae25b4,2,206,J,45-54,Female,6-10 season,8,6,10,Just Right,Aware and have NOT used/received
+473,abaa4058,2,327,L,22-24,Female,1 season,8,6,6,Too Few,Aware and have NOT used/received
+474,aa765f92,2,312,J,45-54,Male,1 season,10,5,10,Just Right,Aware and have NOT used/received
+475,abdd3ea8,2,126,H,35-44,Male,6-10 season,9,10,7,Too Few,Aware and have used/received
+476,39bfd590,2,165,S,55-64,Male,11-20 season,2,6,4,Too Few,Unaware
+477,ca4ed518,2,91,U,35-44,Female,16-20 season,8,6,8,Too Many,Unaware
+478,788d1d46,2,284,AA,35-44,Male,11-15 season,8,1,10,Too Many,Unaware
+479,c01240c1,2,298,U,65+,Male,11-20 season,8,5,5,Just Right,Aware and have NOT used/received
+480,4.38E+13,2,261,KK,35-44,Male,21+ seasons,2,5,7,Just Right,Unaware
+481,dff5a98d,2,280,V,45-54,Female,11-15 season,6,7,8,Too Few,Unaware
+482,7998c6cb,2,454,GG,65+,Male,21+ seasons,7,6,9,Just Right,Unaware
+483,eb6ac0ad,2,216,C,25-34,Female,6-10 season,8,8,7,Too Many,Unaware
+484,4963280f,2,173,GG,65+,Male,11-15 season,9,8,2,Too Many,Aware and have NOT used/received
+485,f3d0b7b7,2,322,T,55-64,Male,2-5 season,9,9,5,Too Few,Aware and have used/received
+486,a69c55b7,2,52,I,55-64,Female,2-5 season,8,5,4,Just Right,Unaware
+487,asjbf9190,2,13,A,55-64,Male,1 season,1,8,2,Too Many,Unaware
+488,9ca36c53,2,348,BB,35-44,Female,11-15 season,10,4,4,Just Right,Unaware
+489,c7bad441,2,496,B,55-64,Male,6-10 season,5,3,10,Just Right,Aware and have NOT used/received
+490,7754db6d,2,421,Z,45-54,Female,16-20 season,4,6,6,Too Few,Unaware
+491,298aa541,2,180,Q,55-64,Female,16-20 season,10,6,4,Just Right,Unaware
+492,efcbe3d3,2,153,BB,45-54,Female,6-10 season,5,7,1,Just Right,Aware and have used/received
+493,6cee020f,2,388,HH,45-54,Male,6-10 season,10,6,8,Too Many,Aware and have NOT used/received
+494,7f48b339,2,502,MM,45-54,Male,6-10 season,8,7,9,Too Many,Unaware
+495,a88fc848,2,534,H,45-54,Female,1 season,10,7,10,Too Many,Aware and have NOT used/received
+496,7ee7b66a,2,240,K,45-54,Male,2-5 season,7,3,7,Just Right,Aware and have NOT used/received
+497,960fcf38,2,486,CC,55-64,Male,2-5 season,8,8,7,Just Right,Aware and have NOT used/received
+498,70ee9e9f,2,189,G,45-54,Female,11-15 season,10,1,10,Too Many,Unaware
+499,37f197a2,2,462,W,45-54,Male,2-5 season,9,1,10,Just Right,Aware and have NOT used/received
+500,03ce126e,2,428,OO,45-54,Female,1 season,10,5,4,Too Few,Unaware
+501,a4b446ca,2,346,BB,45-54,Female,6-10 season,1,2,5,Too Few,Unaware
+502,637820f0,2,300,C,55-64,Female,21+ seasons,6,4,5,Just Right,Unaware
+503,e9aa150e,2,481,Q,45-54,Male,2-5 season,6,4,8,Just Right,Aware and have NOT used/received
+504,7463b45e,2,436,II,55-64,Male,11-20 season,8,3,9,Just Right,Aware and have NOT used/received
+505,3586e4ac,2,8,F,25-34,Female,2-5 season,8,2,2,Too Many,Unaware
+506,6ac7604c,2,272,LL,35-44,Male,1 season,9,6,9,Just Right,Unaware
+507,f9940b8c,2,523,T,45-54,Male,1 season,9,7,9,Just Right,Unaware
+508,ea5f6b58,2,417,R,65+,Male,1 season,5,2,4,Just Right,Unaware
+509,b62083e5,2,521,X,45-54,Male,21+ seasons,4,5,4,Just Right,Aware and have NOT used/received
+510,a06cdee3,2,49,E,25-34,Female,2-5 season,10,8,10,Just Right,Aware and have used/received
+511,2dd7bd96,2,323,R,45-54,Male,2-5 season,8,5,3,Too Few,Aware and have NOT used/received
+512,588c65a3,2,509,G,65+,Male,11-20 season,9,2,9,Just Right,Unaware
+513,f30e79df,2,5,C,65+,Female,21+ seasons,10,6,5,Too Few,Aware and have used/received
+514,f5fdf703,2,338,D,35-44,Female,2-5 season,9,9,8,Too Few,Unaware
+515,9d5f3c88,2,239,Q,65+,Female,21+ seasons,10,7,10,Just Right,Aware and have used/received
+516,8652d7fb,2,483,OO,45-54,Male,1 season,8,6,8,Just Right,Unaware
+517,6c4e39c4,2,22,L,55-64,Male,21+ seasons,9,8,8,Just Right,Unaware
+518,934cea6e,2,500,NN,65+,Male,21+ seasons,7,5,3,Too Few,Aware and have NOT used/received
+519,8f3f05cb,2,512,Y,55-64,Male,21+ seasons,5,3,8,Just Right,Aware and have NOT used/received
+520,5304ec17,2,152,R,65+,Female,1 season,10,8,10,Just Right,Unaware
+521,25c5e25b,2,199,D,45-54,Female,2-5 season,5,10,3,Too Few,Aware and have NOT used/received
+522,d889d3e0,2,111,U,45-54,Female,6-10 season,8,3,5,Just Right,Aware and have NOT used/received
+523,8ffae9cf,2,349,S,55-64,Male,11-20 season,8,6,8,Just Right,Aware and have used/received
+524,06a8fca1,2,277,Q,25-34,Female,16-20 season,10,1,1,Too Many,Aware and have NOT used/received
+525,sn0in018,2,185,AA,65+,Male,21+ seasons,3,1,3,Too Many,Unaware
+526,cf4c5f7e,2,105,F,55-64,Female,16-20 season,5,3,7,Too Many,Unaware
+527,422592a1,2,404,T,65+,Male,21+ seasons,7,3,7,Just Right,Unaware
+528,276b4394,2,110,E,55-64,Male,21+ seasons,2,8,9,Too Many,Unaware
+529,65101034,2,360,FF,35-44,Male,1 season,10,5,8,Just Right,Unaware
+530,6b32a61a,2,474,H,35-44,Male,1 season,8,6,8,Just Right,Unaware
+531,dcfa8129,2,121,B,55-64,Male,11-20 season,9,6,8,Just Right,Unaware
+532,e1e70184,2,165,D,35-44,Male,2-5 season,6,3,5,Just Right,Aware and have NOT used/received
+533,28034c7f,2,436,U,65+,Male,21+ seasons,5,3,10,Just Right,Unaware
+534,a8ce5d4b,2,181,BB,55-64,Male,1 season,6,5,6,Just Right,Unaware
+535,e525f7be,2,14,J,55-64,Female,6-10 season,6,10,4,Too Many,Unaware
+536,94c52b6d,2,319,OO,35-44,Female,2-5 season,10,2,9,Too Few,Aware and have NOT used/received
+537,0b20a9f3,2,169,CC,45-54,Male,1 season,7,6,9,Just Right,Aware and have NOT used/received
+538,9635245f,2,380,J,65+,Female,21+ seasons,5,6,7,Just Right,Aware and have NOT used/received
+539,62c39366,2,394,M,65+,Female,21+ seasons,7,6,7,Just Right,Unaware
+540,1ab011af,2,269,JJ,55-64,Male,21+ seasons,9,1,7,Just Right,Aware and have used/received
+541,3fe05cb9,2,243,EE,65+,Female,11-20 season,5,3,8,Just Right,Unaware
+542,b5718d89,2,94,R,35-44,Male,2-5 season,5,4,9,Too Many,Aware and have NOT used/received
+543,11bc96d4,2,266,P,35-44,Male,1 season,10,7,8,Just Right,Unaware
+544,988f2c28,2,369,M,25-34,Male,2-5 season,6,10,5,Too Many,Aware and have NOT used/received
+545,62c31238,2,109,K,55-64,Male,16-20 season,6,7,8,Too Many,Unaware
+546,ed7bc3ac,2,367,MM,55-64,Male,21+ seasons,6,6,7,Just Right,Unaware
+547,5b283c96,2,211,X,35-44,Male,21+ seasons,8,7,8,Just Right,Unaware
+548,5b4824b7,2,8,T,55-64,Female,16-20 season,9,5,4,Just Right,Unaware
+549,23e23952,2,331,L,45-54,Male,2-5 season,8,5,6,Too Many,Aware and have NOT used/received
+550,1d2eb566,2,177,KK,45-54,Female,11-15 season,8,2,1,Too Few,Aware and have NOT used/received
+551,b903a3d8,2,67,A,35-44,Male,11-15 season,7,5,9,Just Right,Aware and have NOT used/received
+552,a8b3f053,2,225,AA,55-64,Female,6-10 season,10,5,4,Just Right,Aware and have used/received
+553,fb8c60b5,2,260,Z,35-44,Male,1 season,8,6,7,Too Few,Unaware
+554,f28dbf06,2,117,CC,45-54,Male,21+ seasons,7,5,8,Just Right,Unaware
+555,a9d25c52,2,14,N,55-64,Male,2-5 season,9,7,8,Just Right,Aware and have used/received
+556,ea216cb8,2,118,F,45-54,Male,6-10 season,9,9,7,Too Few,Unaware
+557,e1e977c3,2,244,U,55-64,Male,2-5 season,10,1,7,Too Few,Unaware
+558,4634585e,2,195,Z,65+,Female,11-15 season,5,4,4,Too Few,Aware and have used/received
+559,31aaddb3,2,36,W,35-44,Male,2-5 season,7,6,1,Too Few,Aware and have NOT used/received
+560,355fda1b,2,193,W,65+,Male,21+ seasons,8,7,9,Just Right,Unaware
+561,863e918b,2,243,HH,45-54,Male,21+ seasons,9,6,8,Just Right,Unaware
+562,813bcdd5,2,292,FF,65+,Male,21+ seasons,9,3,5,Too Few,Unaware
+563,5588e44f,2,121,S,55-64,Male,21+ seasons,2,1,7,Too Many,Unaware
+564,5220a680,2,88,X,55-64,Male,11-15 season,9,8,3,Too Many,Unaware
+565,665d8c8a,2,383,F,45-54,Male,21+ seasons,1,6,8,Just Right,Aware and have NOT used/received
+566,bb8ebb9f,2,152,DD,55-64,Female,21+ seasons,10,7,10,Just Right,Unaware
+567,6617111e,2,242,OO,35-44,Male,6-10 season,9,10,3,Too Few,Unaware
+568,56c7998d,2,455,R,65+,Male,21+ seasons,8,5,7,Just Right,Unaware
+569,5816bfcd,2,378,L,55-64,Male,6-10 season,6,7,6,Too Many,Aware and have NOT used/received
+570,6.33E+07,2,22,W,55-64,Female,2-5 season,7,2,1,Too Many,Aware and have used/received
+571,f44a8af0,2,327,Q,55-64,Male,6-10 season,7,8,7,Too Few,Aware and have NOT used/received
+572,9d2dab86,2,318,U,45-54,Female,11-15 season,7,6,6,Just Right,Aware and have NOT used/received
+573,3aab7a16,2,100,D,55-64,Male,2-5 season,8,1,10,Just Right,Unaware
+574,62920914,2,401,DD,55-64,Female,21+ seasons,9,7,1,Just Right,Aware and have used/received
+575,2df163d7,2,183,D,35-44,Female,11-15 season,5,4,7,Too Many,Aware and have NOT used/received
+576,aa00bef7,2,142,BB,65+,Male,11-20 season,8,1,8,Just Right,Unaware
+577,8b18cd6a,2,381,H,65+,Male,21+ seasons,4,5,8,Just Right,Aware and have used/received
+578,672b3b49,2,224,S,65+,Female,2-5 season,6,4,4,Too Many,Unaware
+579,75fb70a9,2,177,Q,45-54,Male,6-10 season,6,1,6,Just Right,Unaware
+580,dff2484d,2,157,S,45-54,Female,2-5 season,7,6,4,Too Many,Unaware
+581,b9668c7d,2,141,K,55-64,Male,2-5 season,9,5,1,Just Right,Unaware
+582,0c50d38c,2,144,B,45-54,Male,16-20 season,10,5,3,Just Right,Unaware
+583,025d73c4,2,24,W,45-54,Male,2-5 season,10,8,6,Just Right,Unaware
+584,787c21b0,2,110,MM,35-44,Female,2-5 season,10,8,10,Just Right,Unaware
+585,d3a5ebcf,2,507,C,65+,Male,2-5 season,9,6,2,Just Right,Unaware
+586,865c4e3c,2,335,JJ,45-54,Male,2-5 season,10,7,9,Just Right,Unaware
+587,c4c77fee,2,505,U,25-34,Female,2-5 season,9,9,2,Too Many,Unaware
+588,a5c2bddd,2,70,G,65+,Female,21+ seasons,6,4,9,Just Right,Unaware
+589,asd5165s,2,212,M,65+,Male,16-20 season,1,1,1,Too Many,Aware and have used/received
+590,ad9075c7,2,103,AA,25-34,Female,2-5 season,7,9,9,Too Many,Aware and have used/received
+591,394766fa,2,503,II,65+,Female,11-20 season,7,5,5,Too Few,Unaware
+592,cb3a8acc,2,371,N,25-34,Female,6-10 season,5,1,5,Just Right,Aware and have NOT used/received
+593,04fb77a4,2,419,KK,45-54,Male,2-5 season,10,1,10,Just Right,Aware and have NOT used/received
+594,d2325811,2,176,NN,45-54,Male,1 season,9,5,8,Just Right,Aware and have NOT used/received
+595,a668155d,2,160,C,55-64,Male,21+ seasons,7,7,8,Just Right,Aware and have NOT used/received
+596,d28afecc,2,540,LL,55-64,Female,21+ seasons,8,6,8,Just Right,Unaware
+597,022df294,2,332,M,45-54,Female,21+ seasons,8,6,10,Just Right,Unaware
+598,579037a8,2,450,JJ,45-54,Male,1 season,10,7,10,Just Right,Aware and have NOT used/received
+599,068b9831,2,115,FF,55-64,Male,6-10 season,9,9,8,Too Many,Aware and have NOT used/received
+600,5783f620,2,515,NN,45-54,Male,2-5 season,5,4,5,Just Right,Aware and have NOT used/received
+601,3b470de6,2,478,B,65+,Male,21+ seasons,7,5,4,Just Right,Unaware
+602,9052e1b6,2,192,K,55-64,Male,21+ seasons,6,4,4,Too Few,Aware and have NOT used/received
+603,dd67b3c5,2,499,P,65+,Female,2-5 season,8,2,7,Just Right,Aware and have NOT used/received
+604,d67ca632,2,536,U,45-54,Male,16-20 season,8,8,2,Just Right,Aware and have NOT used/received
+605,2de83399,2,469,O,45-54,Female,6-10 season,9,4,8,Too Many,Unaware
+606,da7d74b3,2,155,K,Prefer not to answer,Male,11-20 season,2,2,4,Just Right,Aware and have NOT used/received
+607,as23d165,2,345,M,35-44,Female,11-15 season,2,1,2,Just Right,Unaware
+608,3d8e6fa1,2,266,KK,45-54,Male,2-5 season,7,4,8,Just Right,Aware and have NOT used/received
+609,858a36fa,2,82,G,55-64,Male,6-10 season,10,5,8,Too Many,Unaware
+610,89baa6ec,2,396,CC,35-44,Male,1 season,9,5,5,Just Right,Aware and have used/received
+611,35d85599,2,185,MM,65+,Female,21+ seasons,5,4,7,Too Many,Unaware
+612,a7452fa4,2,226,FF,55-64,Male,21+ seasons,8,5,7,Just Right,Unaware
+613,0bc1a1ed,2,104,U,45-54,Male,21+ seasons,3,6,5,Too Few,Unaware
+614,f267ed66,2,152,P,55-64,Female,2-5 season,6,5,7,Too Few,Aware and have used/received
+615,345f267c,2,237,OO,45-54,Male,2-5 season,8,4,8,Just Right,Unaware
+616,f935d30f,2,270,II,65+,Male,21+ seasons,8,7,8,Just Right,Unaware
+617,3f5bb3d4,2,447,H,65+,Female,21+ seasons,6,4,7,Just Right,Aware and have NOT used/received
+618,61daa3f8,2,276,CC,45-54,Female,6-10 season,10,4,9,Too Many,Aware and have NOT used/received
+619,8141bb52,2,315,HH,55-64,Female,21+ seasons,7,5,6,Just Right,Aware and have NOT used/received
+620,a1bb3bed,2,476,V,35-44,Female,1 season,10,4,5,Too Many,Unaware
+621,19d17dff,2,178,P,35-44,Male,2-5 season,10,5,10,Just Right,Unaware
+622,ca13a5d2,2,5,K,55-64,Male,2-5 season,7,1,6,Too Few,Unaware
+623,b14e0708,2,216,DD,25-34,Female,2-5 season,8,1,9,Too Many,Aware and have NOT used/received
+624,ff47b417,2,546,Q,45-54,Female,1 season,7,4,6,Too Many,Aware and have NOT used/received
+625,df5fdc92,2,426,LL,25-34,Male,1 season,10,6,10,Just Right,Unaware
+626,1882cbdb,2,24,U,25-34,Female,16-20 season,10,3,6,Just Right,Aware and have NOT used/received
+627,c0c116ee,2,323,E,45-54,Male,21+ seasons,6,3,9,Too Many,Aware and have NOT used/received
+628,a70bd872,2,164,EE,55-64,Male,21+ seasons,10,6,10,Just Right,Aware and have NOT used/received
+629,8d6f4cfa,2,468,M,55-64,Female,2-5 season,7,1,5,Too Few,Aware and have NOT used/received
+630,04a7aca0,2,440,Q,25-34,Male,2-5 season,8,4,10,Just Right,Aware and have NOT used/received
+631,9f42b2a2,2,265,KK,45-54,Male,6-10 season,8,7,8,Too Few,Unaware
+632,2a574bbb,2,183,I,65+,Male,21+ seasons,9,6,6,Just Right,Unaware
+633,7a83bd4d,2,412,EE,45-54,Female,16-20 season,10,2,9,Too Few,Aware and have NOT used/received
+634,f0ce5b5b,2,494,Z,55-64,Male,16-20 season,5,8,8,Just Right,Unaware
+635,d25d2b37,2,203,J,55-64,Male,21+ seasons,10,7,10,Just Right,Unaware
+636,4e36c8ad,2,304,LL,45-54,Male,21+ seasons,6,2,5,Too Few,Unaware
+637,48ee321f,2,305,LL,65+,Male,2-5 season,7,6,10,Just Right,Unaware
+638,81005f52,2,315,Q,65+,Male,21+ seasons,7,2,5,Just Right,Unaware
+639,7f337aee,2,211,W,55-64,Male,21+ seasons,7,5,5,Just Right,Aware and have used/received
+640,0f743c35,2,186,I,45-54,Male,11-20 season,1,3,5,Just Right,Unaware
+641,33665fc8,2,510,S,55-64,Male,11-20 season,10,6,10,Just Right,Aware and have used/received
+642,327e14ec,2,152,BB,55-64,Female,6-10 season,3,4,7,Too Few,Aware and have NOT used/received
+643,09757c24,2,343,NN,55-64,Male,11-20 season,7,7,8,Just Right,Unaware
+644,6ddfff61,2,520,R,65+,Male,21+ seasons,7,5,7,Too Few,Unaware
+645,31a817b3,2,263,T,65+,Male,21+ seasons,7,4,7,Just Right,Aware and have NOT used/received
+646,3c04b8de,2,155,B,45-54,Female,6-10 season,10,2,2,Too Many,Unaware
+647,24be2466,2,212,V,45-54,Male,11-15 season,7,5,7,Too Few,Aware and have NOT used/received
+648,db667892,2,420,GG,65+,Male,21+ seasons,7,5,6,Just Right,Aware and have NOT used/received
+649,8a8feb62,2,387,II,45-54,Male,11-20 season,8,6,9,Just Right,Unaware
+650,397e4b23,2,63,U,45-54,Female,21+ seasons,7,5,9,Too Many,Aware and have used/received
+651,af213cb3,2,432,R,45-54,Female,2-5 season,4,2,2,Too Few,Aware and have NOT used/received
+652,e1c49464,2,335,P,55-64,Male,6-10 season,8,3,10,Too Many,Unaware
+653,6943013f,2,138,N,35-44,Male,21+ seasons,3,6,7,Just Right,Unaware
+654,2d138ba1,2,348,G,55-64,Female,6-10 season,9,5,9,Too Many,Unaware
+655,f2486116,2,451,E,65+,Male,11-20 season,1,4,9,Just Right,Aware and have NOT used/received
+656,78c3719e,2,391,W,55-64,Male,6-10 season,1,6,2,Too Many,Unaware
+657,asiu911a,2,325,H,65+,Female,16-20 season,3,9,7,Too Many,Unaware
+658,7c2d5552,2,284,JJ,55-64,Male,21+ seasons,5,1,8,Just Right,Aware and have NOT used/received
+659,66135a5b,2,52,R,35-44,Female,21+ seasons,9,2,1,Too Many,Unaware
+660,38913922,2,402,C,45-54,Male,21+ seasons,8,7,6,Just Right,Unaware
+661,f97745c7,2,240,GG,65+,Male,21+ seasons,7,6,8,Just Right,Unaware
+662,4f22419a,2,416,M,65+,Male,21+ seasons,7,2,9,Just Right,Aware and have used/received
+663,77a4b6e4,2,538,G,35-44,Male,2-5 season,7,5,5,Just Right,Unaware
+664,fbc572eb,2,516,M,55-64,Female,6-10 season,7,9,3,Too Many,Aware and have NOT used/received
+665,asoih01k,2,99,S,55-64,Male,2-5 season,2,1,1,Too Many,Unaware
+666,1120d92d,2,325,D,45-54,Female,16-20 season,10,3,1,Too Few,Aware and have NOT used/received
+667,65c9c54b,2,390,L,45-54,Male,11-20 season,2,3,5,Too Many,Aware and have used/received
+668,134b837e,2,77,Y,25-34,Female,2-5 season,8,6,9,Just Right,Aware and have NOT used/received
+669,b2b64fe7,2,15,N,45-54,Male,21+ seasons,3,9,10,Just Right,Unaware
+670,ae2a0c27,2,111,K,45-54,Male,16-20 season,10,10,2,Too Few,Unaware
+671,a9de820e,2,235,Y,55-64,Male,6-10 season,8,6,9,Just Right,Aware and have used/received
+672,fc803d3e,2,313,H,45-54,Male,21+ seasons,2,2,4,Just Right,Aware and have NOT used/received
+673,50547fbb,2,397,CC,45-54,Male,6-10 season,10,2,2,Too Few,Unaware
+674,8f5d1bc5,2,522,T,45-54,Male,1 season,8,7,1,Just Right,Aware and have NOT used/received
+675,b25b035a,2,83,K,45-54,Male,6-10 season,9,7,1,Too Few,Aware and have used/received
+676,7b85557c,2,462,B,45-54,Male,6-10 season,8,3,6,Just Right,Aware and have NOT used/received
+677,2e8e8fca,2,448,II,35-44,Female,16-20 season,8,10,1,Too Few,Aware and have NOT used/received
+678,a97eb84f,2,189,CC,65+,Male,2-5 season,8,1,8,Just Right,Aware and have NOT used/received
+679,daf97e72,2,373,EE,45-54,Male,6-10 season,8,9,6,Just Right,Aware and have used/received
+680,64fc64f9,2,194,M,45-54,Male,21+ seasons,9,5,10,Just Right,Unaware
+681,76704bf4,2,41,L,65+,Female,11-20 season,8,9,7,Too Few,Unaware
+682,e7db004b,2,431,NN,65+,Male,11-20 season,10,1,10,Just Right,Aware and have NOT used/received
+683,c3ef287b,2,156,HH,55-64,Female,21+ seasons,8,4,7,Just Right,Unaware
+684,ec3f08c8,2,249,DD,25-34,Male,11-20 season,1,2,1,Too Few,Aware and have NOT used/received
+685,0a92cade,2,507,P,65+,Male,21+ seasons,10,10,10,Just Right,Aware and have NOT used/received
+686,7df9a128,2,409,X,65+,Male,2-5 season,9,8,1,Too Many,Unaware
+687,beba2c38,2,192,NN,45-54,Male,11-20 season,7,5,7,Just Right,Unaware
+688,a22c8e63,2,408,EE,65+,Male,21+ seasons,8,5,9,Just Right,Aware and have NOT used/received
+689,b451201c,2,515,Y,45-54,Male,1 season,8,5,9,Just Right,Aware and have NOT used/received
+690,18285f73,2,126,F,45-54,Male,6-10 season,10,4,7,Too Few,Unaware
+691,b1253e00,2,433,NN,55-64,Prefer not to answer,21+ seasons,9,5,9,Just Right,Unaware
+692,9548fbf3,2,369,S,45-54,Male,11-15 season,7,9,9,Just Right,Aware and have NOT used/received
+693,20985c6f,2,525,Y,65+,Male,21+ seasons,4,6,6,Just Right,Unaware
+694,8046703a,2,522,L,25-34,Male,2-5 season,7,3,8,Just Right,Aware and have used/received
+695,eba15e75,2,357,Q,45-54,Male,11-20 season,9,3,8,Just Right,Unaware
+696,e9d0c13c,2,58,Q,65+,Female,11-15 season,3,3,3,Just Right,Aware and have used/received
+697,e5439e1e,2,474,E,65+,Male,21+ seasons,9,6,7,Just Right,Unaware
+698,1fc5048b,2,244,GG,45-54,Male,2-5 season,4,2,9,Just Right,Unaware
+699,494142fa,2,429,NN,65+,Male,21+ seasons,5,4,7,Too Few,Aware and have NOT used/received
+700,fdf92f48,2,230,X,45-54,Female,16-20 season,9,3,9,Just Right,Aware and have used/received
+701,506b2fdf,2,524,V,45-54,Male,6-10 season,6,1,10,Too Many,Aware and have NOT used/received
+702,45334ca7,2,534,N,65+,Female,21+ seasons,10,1,7,Just Right,Unaware
+703,0c2eb882,2,159,P,55-64,Male,2-5 season,10,5,10,Just Right,Aware and have NOT used/received
+704,ab03d46d,2,118,R,55-64,Male,2-5 season,7,6,3,Too Few,Aware and have NOT used/received
+705,28b54b02,2,376,N,55-64,Male,21+ seasons,1,2,1,Too Few,Unaware
+706,59d15347,2,489,L,55-64,Male,21+ seasons,3,2,2,Too Few,Unaware
+707,89b32f82,2,207,V,45-54,Female,1 season,2,9,3,Too Few,Unaware
+708,6991033,2,302,V,55-64,Female,11-15 season,7,5,2,Too Few,Unaware
+709,8ba4f5ec,2,159,MM,55-64,Male,11-20 season,5,6,7,Just Right,Aware and have NOT used/received
+710,f701a385,2,103,KK,45-54,Female,2-5 season,10,10,10,Just Right,Aware and have NOT used/received
+711,94020443,2,28,B,65+,Female,6-10 season,4,6,4,Too Many,Aware and have used/received
+712,95855654,2,303,M,25-34,Male,6-10 season,10,2,9,Too Many,Unaware
+713,c491fe2d,2,478,AA,55-64,Male,21+ seasons,5,5,9,Just Right,Unaware
+714,15ff4344,2,154,R,55-64,Male,11-20 season,8,3,2,Too Few,Unaware
+715,04a9bde4,2,364,KK,65+,Female,21+ seasons,10,10,10,Just Right,Unaware
+716,a8c9582a,2,105,O,65+,Female,16-20 season,9,9,2,Just Right,Aware and have used/received
+717,fd39c153,2,266,B,45-54,Male,11-20 season,9,7,7,Just Right,Unaware
+718,e8c1c5af,2,523,L,35-44,Female,16-20 season,3,10,8,Just Right,Unaware
+719,6b889d1f,2,397,W,65+,Female,2-5 season,8,3,8,Too Few,Unaware
+720,981h90h1,2,24,W,55-64,Male,2-5 season,2,1,7,Too Many,Unaware
+721,db19b527,2,201,A,45-54,Male,6-10 season,10,5,5,Just Right,Aware and have NOT used/received
+722,484c387b,2,408,W,45-54,Female,1 season,10,7,10,Just Right,Unaware
+723,58d135ce,2,303,Y,45-54,Male,2-5 season,5,8,4,Just Right,Aware and have NOT used/received
+724,42808400,2,3,N,45-54,Male,6-10 season,7,6,5,Too Few,Aware and have used/received
+725,a790be0c,2,438,R,65+,Male,1 season,7,10,7,Just Right,Unaware
+726,a0253b6c,2,448,NN,55-64,Female,6-10 season,7,2,4,Too Few,Aware and have NOT used/received
+727,17c19645,2,90,S,45-54,Male,11-20 season,8,1,8,Just Right,Aware and have NOT used/received
+728,4321b106,2,422,HH,65+,Male,21+ seasons,1,5,7,Just Right,Unaware
+729,b63f29d2,2,236,Q,45-54,Female,1 season,10,9,10,Just Right,Aware and have NOT used/received
+730,a049f583,2,375,K,45-54,Male,6-10 season,6,6,2,Too Few,Aware and have NOT used/received
+731,af06490c,2,228,O,55-64,Female,2-5 season,9,7,4,Too Few,Aware and have NOT used/received
+732,27a82f90,2,6,O,55-64,Male,6-10 season,8,7,9,Too Few,Aware and have NOT used/received
+733,f6a6f7f5,2,457,M,65+,Male,21+ seasons,1,4,4,Just Right,Unaware
+734,606310f2,2,196,II,35-44,Male,16-20 season,7,8,3,Too Many,Aware and have used/received
+735,b166710c,2,310,L,45-54,Female,11-20 season,10,5,7,Just Right,Aware and have used/received
+736,fdd0722d,2,423,T,65+,Male,6-10 season,7,3,6,Just Right,Aware and have NOT used/received
+737,e0705eb2,2,265,B,45-54,Male,11-20 season,8,4,10,Just Right,Unaware
+738,36d85e43,2,251,AA,45-54,Female,11-15 season,2,10,9,Too Many,Unaware
+739,8cda47ec,2,444,HH,35-44,Male,6-10 season,10,7,7,Too Few,Unaware
+740,08524e7c,2,171,EE,45-54,Male,2-5 season,9,4,9,Just Right,Unaware
+741,3a46072c,2,468,I,65+,Female,2-5 season,8,6,10,Just Right,Aware and have used/received
+742,cc56c7ff,2,496,T,55-64,Prefer not to answer,21+ seasons,1,10,7,Too Few,Aware and have NOT used/received
+743,f4450bcc,2,540,LL,35-44,Female,6-10 season,7,4,7,Too Many,Aware and have NOT used/received
+744,17b60ab0,2,450,T,55-64,Male,11-20 season,8,9,10,Just Right,Unaware
+745,753c2048,2,402,II,65+,Male,6-10 season,7,6,10,Too Few,Aware and have NOT used/received
+746,d588f3c5,2,153,HH,55-64,Male,11-20 season,10,8,8,Just Right,Aware and have NOT used/received
+747,6a958aaa,2,127,B,65+,Female,6-10 season,7,10,8,Just Right,Aware and have NOT used/received
+748,85000628,2,210,U,55-64,Female,2-5 season,7,2,7,Just Right,Unaware
+749,08ba998c,2,117,X,55-64,Male,21+ seasons,3,2,2,Too Few,Aware and have NOT used/received
+750,adad50ed,2,244,I,25-34,Male,2-5 season,6,5,9,Too Many,Aware and have NOT used/received
+751,7a48dacb,2,334,L,65+,Male,11-20 season,9,5,8,Just Right,Unaware
+752,e21af04a,2,375,Q,55-64,Female,6-10 season,7,7,6,Just Right,Aware and have used/received
+753,66eb0e11,2,23,W,45-54,Female,21+ seasons,10,8,7,Just Right,Unaware
+754,f3663962,2,166,KK,45-54,Female,16-20 season,6,2,6,Too Many,Aware and have NOT used/received
+755,967bcc81,2,451,V,65+,Male,21+ seasons,4,6,5,Just Right,Aware and have used/received
+756,2792939b,2,502,L,45-54,Male,21+ seasons,8,7,10,Just Right,Unaware
+757,ff37df38,2,502,R,55-64,Male,6-10 season,9,6,7,Just Right,Unaware
+758,154c84f9,2,388,GG,55-64,Male,11-20 season,5,9,6,Just Right,Aware and have NOT used/received
+759,6291b63c,2,513,Z,55-64,Male,11-20 season,10,6,8,Just Right,Unaware
+760,9.07E+58,2,285,A,35-44,Male,16-20 season,4,3,1,Too Many,Aware and have NOT used/received
+761,072f7d3d,2,404,FF,65+,Female,21+ seasons,8,6,9,Just Right,Aware and have NOT used/received
+762,3f3f49e0,2,120,HH,45-54,Male,1 season,9,10,10,Just Right,Unaware
+763,ca2f7f05,2,409,FF,25-34,Male,2-5 season,8,5,8,Just Right,Unaware
+764,edb27d9b,2,363,GG,35-44,Male,1 season,8,6,10,Just Right,Unaware
+765,abac4645,2,205,F,35-44,Male,21+ seasons,9,8,7,Just Right,Unaware
+766,4714a5b0,2,265,B,35-44,Male,1 season,10,8,10,Just Right,Unaware
+767,f6961677,2,521,W,35-44,Female,1 season,10,9,6,Just Right,Unaware
+768,32f347fb,2,138,D,55-64,Female,21+ seasons,6,1,2,Too Few,Unaware
+769,b179e236,2,446,N,55-64,Male,21+ seasons,4,4,5,Too Few,Unaware
+770,5b54dd76,2,543,U,45-54,Male,2-5 season,9,8,1,Too Few,Aware and have NOT used/received
+771,c1ec72e3,2,445,CC,45-54,Female,1 season,9,7,7,Just Right,Unaware
+772,df74baa8,2,75,L,55-64,Male,21+ seasons,7,3,5,Too Few,Aware and have NOT used/received
+773,f92f39bb,2,113,I,45-54,Male,6-10 season,8,4,9,Just Right,Unaware
+774,1dbe9609,2,466,GG,55-64,Female,11-15 season,5,9,7,Too Few,Aware and have NOT used/received
+775,165b2843,2,438,P,65+,Female,21+ seasons,6,4,5,Too Few,Unaware
+776,73a61837,2,132,P,35-44,Male,6-10 season,6,9,7,Just Right,Unaware
+777,4bfe434f,2,294,JJ,25-34,Male,2-5 season,7,10,4,Just Right,Unaware
+778,a7e3445f,2,197,G,45-54,Female,2-5 season,9,4,7,Too Few,Unaware
+779,c5eb0549,2,262,D,55-64,Male,2-5 season,7,3,8,Just Right,Aware and have used/received
+780,ca407080,2,163,Y,55-64,Male,21+ seasons,1,1,7,Too Many,Unaware
+781,f23ffaba,2,405,C,65+,Male,21+ seasons,10,7,7,Just Right,Unaware
+782,f4adca1e,2,174,KK,35-44,Male,2-5 season,8,6,8,Too Few,Unaware
+783,an0i1h09,2,87,R,55-64,Male,1 season,3,1,1,Just Right,Unaware
+784,25d316c3,2,276,Y,55-64,Male,6-10 season,9,1,8,Too Few,Unaware
+785,8394beab,2,519,V,55-64,Male,11-20 season,8,7,7,Just Right,Unaware
+786,950f8b60,2,325,KK,35-44,Male,6-10 season,4,6,6,Too Many,Unaware
+787,fed45d0d,2,197,G,55-64,Male,11-20 season,7,7,7,Just Right,Unaware
+788,ee92a454,2,59,Y,45-54,Female,21+ seasons,9,6,1,Just Right,Aware and have NOT used/received
+789,5cfb34e7,2,254,X,65+,Female,21+ seasons,7,5,7,Just Right,Unaware
+790,a1b5e866,2,422,LL,45-54,Male,2-5 season,9,7,9,Just Right,Unaware
+791,8916c93a,2,329,M,45-54,Male,1 season,4,1,5,Just Right,Aware and have used/received
+792,12d8dcea,2,407,K,45-54,Female,2-5 season,1,7,7,Just Right,Unaware
+793,1921b462,2,278,R,35-44,Male,1 season,10,7,10,Just Right,Unaware
+794,e33ed882,2,474,II,55-64,Male,21+ seasons,10,10,1,Just Right,Aware and have NOT used/received
+795,8e53b671,2,465,X,55-64,Male,2-5 season,10,7,5,Too Few,Unaware
+796,458c1da0,2,296,J,65+,Male,6-10 season,9,4,7,Too Few,Aware and have NOT used/received
+797,030104c4,2,326,OO,45-54,Male,1 season,6,7,7,Just Right,Aware and have NOT used/received
+798,41000c7a,2,451,L,55-64,Male,21+ seasons,5,3,7,Too Few,Aware and have NOT used/received
+799,2104fa40,2,499,NN,55-64,Male,6-10 season,6,5,7,Too Many,Aware and have NOT used/received
+800,4794f703,2,33,C,65+,Male,16-20 season,5,4,8,Too Many,Aware and have NOT used/received
+801,9c5757ec,2,510,II,65+,Male,21+ seasons,7,5,7,Just Right,Aware and have NOT used/received
+802,2e897e92,2,210,Z,55-64,Male,11-20 season,5,6,8,Just Right,Unaware
+803,3db43a43,2,294,L,65+,Female,21+ seasons,9,5,8,Just Right,Aware and have NOT used/received
+804,eb28a504,2,416,KK,55-64,Female,11-15 season,7,5,7,Just Right,Aware and have NOT used/received
+805,d18c94b5,2,504,V,65+,Male,21+ seasons,5,7,4,Just Right,Aware and have used/received
+806,18343468,2,46,B,65+,Female,11-20 season,10,5,9,Just Right,Unaware
+807,5324fca0,2,463,B,55-64,Male,6-10 season,5,10,9,Too Many,Unaware
+808,3721c7d1,2,246,AA,65+,Female,11-20 season,8,4,8,Just Right,Aware and have NOT used/received
+809,adb18365,2,449,J,35-44,Male,1 season,9,8,9,Just Right,Unaware
+810,4.05E+09,2,474,MM,65+,Male,6-10 season,6,6,7,Just Right,Unaware
+811,0dcfb6ad,2,216,OO,25-34,Female,16-20 season,6,7,6,Too Few,Aware and have NOT used/received
+812,4c7a1424,2,436,C,65+,Female,2-5 season,5,6,10,Just Right,Aware and have used/received
+813,b333b78d,2,468,W,45-54,Male,2-5 season,2,7,6,Just Right,Unaware
+814,62136743,2,492,JJ,Prefer not to answer,Male,21+ seasons,1,6,7,Just Right,Aware and have NOT used/received
+815,7d7042e5,2,132,Y,35-44,Male,1 season,9,5,9,Just Right,Unaware
+816,6378ed02,2,333,HH,65+,Male,2-5 season,10,1,9,Just Right,Unaware
+817,379bd258,2,538,O,65+,Male,1 season,9,1,2,Too Few,Unaware
+818,dd11459f,2,227,OO,55-64,Female,2-5 season,7,8,7,Too Few,Unaware
+819,9fba6a88,2,434,X,55-64,Male,21+ seasons,8,6,7,Just Right,Aware and have NOT used/received
+820,77472742,2,430,Z,45-54,Male,11-20 season,6,6,6,Just Right,Unaware
+821,3002870e,2,346,FF,45-54,Female,11-15 season,5,8,7,Too Few,Aware and have NOT used/received
+822,929a6c3a,2,523,B,35-44,Male,2-5 season,9,1,1,Too Many,Unaware
+823,d654742f,2,59,S,55-64,Male,6-10 season,8,6,7,Too Many,Unaware
+824,02d26167,2,263,KK,35-44,Male,2-5 season,10,1,6,Just Right,Aware and have NOT used/received
+825,228a2d81,2,253,X,65+,Female,21+ seasons,10,5,10,Just Right,Aware and have used/received
+826,1.41E+45,2,391,J,35-44,Male,1 season,9,6,7,Just Right,Unaware
+827,616bc89d,2,53,B,35-44,Male,16-20 season,7,2,10,Just Right,Unaware
+828,f84de4ba,2,238,LL,45-54,Female,2-5 season,10,7,2,Too Many,Aware and have NOT used/received
+829,d1e090f3,2,387,A,55-64,Female,21+ seasons,6,5,6,Just Right,Unaware
+830,8945678e,2,266,NN,45-54,Male,2-5 season,6,4,8,Just Right,Aware and have NOT used/received
+831,575b9659,2,308,NN,55-64,Male,21+ seasons,7,5,6,Just Right,Unaware
+832,c42c8690,2,150,B,65+,Male,6-10 season,1,4,4,Just Right,Aware and have NOT used/received
+833,4ae3fb59,2,263,Y,65+,Male,2-5 season,8,6,10,Just Right,Aware and have used/received
+834,279e7ce4,2,368,G,65+,Male,21+ seasons,9,7,7,Just Right,Aware and have used/received
+835,48ec97fa,2,227,F,45-54,Male,6-10 season,9,8,7,Too Few,Aware and have NOT used/received
+836,78f5f851,2,154,M,35-44,Male,1 season,8,5,7,Just Right,Unaware
+837,a8547aec,2,23,W,45-54,Female,6-10 season,7,8,5,Too Few,Unaware
+838,211b7620,2,384,HH,45-54,Male,2-5 season,10,10,10,Just Right,Unaware
+839,6c1b7f60,2,439,L,65+,Male,21+ seasons,7,4,8,Just Right,Aware and have NOT used/received
+840,1fec0fa0,2,317,U,65+,Male,16-20 season,6,6,6,Too Few,Aware and have used/received
+841,96c7b326,2,421,KK,35-44,Male,6-10 season,9,8,10,Just Right,Aware and have NOT used/received
+842,e33274ce,2,259,Y,55-64,Male,11-20 season,8,6,8,Just Right,Unaware
+843,a1f34291,2,180,N,45-54,Male,21+ seasons,8,7,8,Just Right,Aware and have NOT used/received
+844,2d3bb9a2,2,502,I,25-34,Female,2-5 season,8,8,9,Just Right,Unaware
+845,5634a860,2,124,H,65+,Female,21+ seasons,9,9,10,Just Right,Aware and have used/received
+846,86bfe86d,2,185,B,45-54,Female,2-5 season,6,5,5,Just Right,Unaware
+847,df266345,2,19,K,35-44,Female,6-10 season,10,10,7,Just Right,Unaware
+848,64799b27,2,489,G,55-64,Male,2-5 season,10,4,8,Just Right,Aware and have NOT used/received
+849,2a35da83,2,245,C,65+,Male,6-10 season,7,1,10,Too Few,Unaware
+850,d11cb7ed,2,109,HH,55-64,Female,16-20 season,7,4,4,Too Many,Aware and have NOT used/received
+851,d1c3d3fa,2,255,KK,55-64,Female,2-5 season,9,1,4,Too Few,Aware and have NOT used/received
+852,9e12b993,2,333,JJ,65+,Female,11-15 season,7,8,1,Too Many,Unaware
+853,061e639d,2,178,GG,55-64,Male,21+ seasons,10,9,10,Just Right,Aware and have NOT used/received
+854,a744028b,2,136,JJ,45-54,Female,1 season,9,8,10,Too Few,Aware and have NOT used/received
+855,a55a4120,2,116,W,65+,Female,2-5 season,6,4,8,Too Few,Aware and have NOT used/received
+856,e1c34034,2,38,D,25-34,Male,1 season,9,5,4,Too Many,Unaware
+857,f4abc452,2,412,J,45-54,Male,11-20 season,8,8,8,Just Right,Unaware
+858,c62d63d2,2,327,E,55-64,Female,6-10 season,7,6,8,Just Right,Unaware
+859,25c02c05,2,151,JJ,45-54,Male,2-5 season,9,8,8,Just Right,Aware and have NOT used/received
+860,c324bc69,2,95,Y,25-34,Female,11-15 season,7,3,7,Just Right,Unaware
+861,ac32ea37,2,310,W,55-64,Male,6-10 season,4,7,7,Too Few,Aware and have NOT used/received
+862,e4c79f47,2,122,FF,45-54,Male,2-5 season,1,1,2,Too Few,Aware and have NOT used/received
+863,ab3a7bc5,2,216,Q,55-64,Male,11-20 season,8,2,9,Too Few,Aware and have NOT used/received
+864,e645add3,2,416,J,35-44,Male,21+ seasons,7,6,6,Just Right,Aware and have NOT used/received
+865,b4ed5f72,2,73,L,65+,Male,21+ seasons,7,7,7,Just Right,Unaware
+866,6304d58d,2,351,FF,65+,Female,16-20 season,3,8,4,Just Right,Unaware
+867,4acce53a,2,384,BB,55-64,Female,21+ seasons,8,5,10,Just Right,Aware and have NOT used/received
+868,17aa9660,2,2,R,45-54,Male,2-5 season,10,2,8,Too Few,Unaware
+869,1590b53d,2,377,R,65+,Male,16-20 season,8,4,6,Too Many,Unaware
+870,9e263412,2,165,KK,35-44,Male,2-5 season,7,1,8,Too Few,Unaware
+871,25949323,2,189,B,55-64,Male,11-15 season,2,6,7,Too Few,Aware and have NOT used/received
+872,90c5aa08,2,232,NN,35-44,Male,11-20 season,8,4,6,Just Right,Aware and have used/received
+873,4c879417,2,369,V,55-64,Female,1 season,10,6,3,Too Few,Aware and have NOT used/received
+874,a05c2a44,2,129,N,65+,Male,21+ seasons,1,2,6,Just Right,Unaware
+875,07eb421b,2,113,NN,45-54,Male,2-5 season,5,1,5,Just Right,Unaware
+876,dc1c023f,2,107,DD,55-64,Male,21+ seasons,8,4,8,Just Right,Unaware
+877,d5470706,2,488,I,55-64,Male,11-20 season,9,8,10,Just Right,Aware and have NOT used/received
+878,22d5c12d,2,115,H,35-44,Female,11-15 season,8,5,6,Just Right,Unaware
+879,89d0ea10,2,7,L,55-64,Male,21+ seasons,9,7,7,Just Right,Unaware
+880,fc8d3b8e,2,349,W,65+,Female,6-10 season,1,1,2,Too Few,Aware and have NOT used/received
+881,bb4ce66d,2,378,BB,55-64,Male,11-15 season,8,2,9,Too Many,Unaware
+882,fec6c44b,2,138,V,45-54,Male,11-20 season,8,5,3,Just Right,Unaware
+883,1d81549b,2,158,N,55-64,Female,2-5 season,9,7,2,Too Few,Aware and have used/received
+884,55f49615,2,301,R,65+,Male,21+ seasons,8,6,9,Just Right,Aware and have NOT used/received
+885,401ef723,2,191,F,45-54,Female,2-5 season,9,7,8,Just Right,Unaware
+886,f613cdb4,2,298,E,65+,Male,21+ seasons,8,6,9,Just Right,Unaware
+887,62556888,2,293,CC,65+,Female,2-5 season,7,3,4,Too Few,Unaware
+888,c83dae05,2,333,DD,35-44,Male,1 season,8,7,7,Just Right,Unaware
+889,2bc8b575,2,351,Q,45-54,Male,2-5 season,8,6,7,Just Right,Unaware
+890,ee31d67c,2,188,R,55-64,Male,21+ seasons,10,6,1,Too Few,Aware and have NOT used/received
+891,6c18da6b,2,159,M,65+,Male,21+ seasons,10,8,9,Just Right,Unaware
+892,1b2c4aed,2,531,HH,55-64,Female,21+ seasons,10,2,7,Too Few,Aware and have NOT used/received
+893,fdeb9dc8,2,308,JJ,65+,Male,21+ seasons,5,3,3,Just Right,Aware and have NOT used/received
+894,08a72d83,2,420,L,45-54,Female,2-5 season,3,2,8,Too Few,Unaware
+895,a692228b,2,213,OO,45-54,Female,21+ seasons,1,3,7,Just Right,Unaware
+896,a511f6e1,2,75,Q,65+,Female,6-10 season,8,10,2,Just Right,Aware and have NOT used/received
+897,7ad875e4,2,481,T,65+,Male,21+ seasons,5,6,7,Just Right,Unaware
+898,f6990136,2,405,Q,25-34,Male,6-10 season,10,4,8,Too Many,Unaware
+899,616bb31d,2,428,J,25-34,Female,11-15 season,9,3,7,Just Right,Aware and have NOT used/received
+900,4cbc59a0,2,362,BB,45-54,Male,6-10 season,4,7,10,Just Right,Aware and have used/received
+901,f96c2bcd,2,268,O,65+,Male,6-10 season,9,3,7,Just Right,Aware and have NOT used/received
+902,c3a80cc6,2,97,R,35-44,Male,11-15 season,7,7,9,Just Right,Unaware
+903,1e5f39b7,2,106,D,55-64,Male,21+ seasons,3,5,8,Just Right,Unaware
+904,3e7030f3,2,309,V,35-44,Male,11-15 season,9,7,5,Just Right,Unaware
+905,19018baa,2,125,J,55-64,Male,11-20 season,5,5,8,Just Right,Unaware
+906,b3d8887c,2,479,H,65+,Male,21+ seasons,7,9,9,Too Few,Unaware
+907,90209120,2,254,D,65+,Male,21+ seasons,9,7,8,Too Few,Aware and have NOT used/received
+908,96f905cb,2,444,II,65+,Male,6-10 season,4,2,5,Too Few,Unaware
+909,70ce6e02,2,495,Y,45-54,Female,11-15 season,4,9,6,Too Few,Aware and have NOT used/received
+910,e3d64c15,2,321,AA,35-44,Male,2-5 season,7,7,7,Just Right,Unaware
+911,17991db6,2,354,FF,55-64,Male,16-20 season,10,6,10,Too Few,Unaware
+912,54532617,2,38,E,45-54,Female,6-10 season,4,4,4,Too Few,Aware and have NOT used/received
+913,069a2118,2,521,B,65+,Female,21+ seasons,9,7,7,Just Right,Aware and have NOT used/received
+914,9d9cd638,2,315,U,55-64,Male,2-5 season,6,6,10,Too Few,Unaware
+915,6e8f002f,2,260,M,55-64,Female,11-20 season,5,7,8,Just Right,Unaware
+916,a22932ea,2,232,W,65+,Male,21+ seasons,6,2,7,Just Right,Unaware
+917,lais38014,2,10,D,45-54,Male,2-5 season,1,1,1,Just Right,Aware and have used/received
+918,075d06c1,2,183,R,45-54,Female,6-10 season,9,7,9,Too Many,Unaware
+919,046afa95,2,501,E,35-44,Male,6-10 season,8,9,7,Just Right,Unaware
+920,53b5760b,2,368,LL,65+,Male,2-5 season,7,10,10,Too Few,Aware and have NOT used/received
+921,ea33d802,2,392,K,45-54,Female,11-15 season,9,4,7,Just Right,Unaware
+922,184f9203,2,138,S,65+,Male,21+ seasons,8,5,10,Just Right,Unaware
+923,06ca665b,2,361,CC,25-34,Male,11-15 season,9,8,8,Just Right,Aware and have NOT used/received
+924,c06aa8e7,2,101,F,45-54,Female,16-20 season,5,5,1,Just Right,Aware and have NOT used/received
+925,5ebc60dd,2,528,M,65+,Female,21+ seasons,5,1,4,Too Few,Unaware
+926,49152a96,2,335,H,65+,Male,21+ seasons,5,4,8,Just Right,Aware and have NOT used/received
+927,eb1b8640,2,237,BB,25-34,Male,21+ seasons,7,5,5,Just Right,Aware and have NOT used/received
+928,172c86a3,2,429,JJ,65+,Male,21+ seasons,4,1,5,Too Few,Unaware
+929,924faef6,2,37,F,45-54,Male,6-10 season,10,10,7,Just Right,Aware and have used/received
+930,bb7011e3,2,230,GG,55-64,Male,2-5 season,8,2,4,Too Few,Unaware
+931,d67e7953,2,295,D,35-44,Male,1 season,8,6,7,Just Right,Unaware
+932,5e0b9eb9,2,547,H,65+,Male,2-5 season,8,6,8,Just Right,Aware and have NOT used/received
+933,7a40ef8b,2,52,S,45-54,Male,6-10 season,5,3,9,Just Right,Aware and have NOT used/received
+934,52914a33,2,462,Q,35-44,Female,11-15 season,7,6,1,Just Right,Unaware
+935,eeef9d3d,2,138,JJ,55-64,Male,11-15 season,7,2,7,Just Right,Aware and have NOT used/received
+936,5baf5b13,2,127,J,45-54,Female,6-10 season,5,5,2,Too Many,Unaware
+937,ef5d0b54,2,219,JJ,45-54,Male,1 season,9,6,9,Just Right,Aware and have NOT used/received
+938,ed24ec74,2,266,B,55-64,Male,21+ seasons,5,2,5,Just Right,Aware and have NOT used/received
+939,afe64646,2,498,DD,45-54,Female,6-10 season,9,6,3,Too Many,Aware and have NOT used/received
+940,676823d0,2,447,U,35-44,Male,21+ seasons,9,8,10,Just Right,Aware and have NOT used/received
+941,cbbecf68,2,354,JJ,35-44,Male,1 season,10,7,10,Just Right,Aware and have NOT used/received
+942,495e793c,2,364,U,25-34,Male,11-15 season,9,8,6,Too Few,Unaware
+943,10751987,2,181,W,45-54,Male,6-10 season,8,7,7,Too Few,Aware and have used/received
+944,24bb0725,2,10,D,45-54,Female,6-10 season,9,8,10,Just Right,Unaware
+945,71865cbc,2,484,N,45-54,Male,11-20 season,7,4,5,Too Few,Unaware
+946,eae83a2c,2,175,FF,45-54,Female,6-10 season,8,3,10,Just Right,Aware and have NOT used/received
+947,e2a3f9fb,2,456,O,35-44,Male,11-15 season,5,5,10,Just Right,Aware and have NOT used/received
+948,2b7c7fdc,2,518,S,65+,Male,16-20 season,8,4,3,Too Many,Unaware
+949,ea1850c8,2,310,W,45-54,Male,2-5 season,10,6,7,Just Right,Aware and have NOT used/received
+950,abaf72ff,2,247,GG,35-44,Male,6-10 season,10,10,10,Just Right,Unaware
+951,0d5f3cb6,2,422,H,45-54,Female,6-10 season,8,8,10,Just Right,Unaware
+952,5bef12b8,2,20,D,45-54,Female,2-5 season,7,9,5,Just Right,Unaware
+953,8bd80e91,2,477,N,25-34,Male,1 season,9,7,10,Just Right,Unaware
+954,f77ce851,2,416,X,45-54,Male,2-5 season,9,8,8,Too Few,Unaware
+955,b1b220c5,2,174,P,55-64,Male,11-20 season,3,2,4,Too Few,Unaware
+956,651d35e3,2,263,OO,35-44,Male,1 season,7,4,8,Just Right,Unaware
+957,c2936648,2,140,OO,45-54,Female,6-10 season,7,2,4,Too Many,Unaware
+958,048cde7a,2,14,S,45-54,Female,11-15 season,10,4,4,Too Many,Unaware
+959,f8465b1f,2,62,F,65+,Male,6-10 season,7,5,7,Too Few,Unaware
+960,c6c44897,2,475,II,45-54,Male,1 season,8,7,7,Too Few,Aware and have NOT used/received
+961,e872a2a0,2,355,LL,25-34,Male,2-5 season,6,2,2,Too Few,Aware and have used/received
+962,3216e654,2,333,NN,65+,Male,21+ seasons,2,1,1,Too Many,Unaware
+963,df0f2c18,2,518,C,55-64,Male,11-15 season,8,7,5,Just Right,Unaware
+964,c9e00b91,2,371,EE,55-64,Female,6-10 season,2,3,6,Just Right,Aware and have used/received
+965,f4382e63,2,345,X,45-54,Female,21+ seasons,9,6,7,Just Right,Unaware
+966,81d2d2cd,2,79,S,55-64,Male,6-10 season,7,2,5,Just Right,Unaware
+967,c63ac193,2,20,L,35-44,Female,11-15 season,10,6,7,Too Few,Aware and have NOT used/received
+968,fe7cb725,2,117,V,35-44,Male,1 season,8,3,8,Too Few,Aware and have NOT used/received
+969,17a374d8,2,214,A,55-64,Male,1 season,8,7,9,Just Right,Unaware
+970,29c42ef1,2,116,CC,Prefer not to answer,Female,2-5 season,5,5,3,Too Few,Aware and have NOT used/received
+971,599085d5,2,353,O,45-54,Female,2-5 season,6,8,10,Just Right,Unaware
+972,a6aca67a,2,45,K,55-64,Female,11-15 season,5,10,6,Too Many,Aware and have NOT used/received
+973,284d9a98,2,453,S,55-64,Male,21+ seasons,3,7,2,Too Few,Aware and have NOT used/received
+974,0b87fd7e,2,119,K,45-54,Male,16-20 season,5,9,3,Too Few,Unaware
+975,dd719643,2,143,E,35-44,Female,16-20 season,6,5,4,Too Many,Unaware
+976,dde94a5a,2,488,N,55-64,Male,11-20 season,6,1,6,Just Right,Aware and have used/received
+977,2c90d44f,2,457,G,55-64,Male,11-20 season,6,5,8,Just Right,Aware and have used/received
+978,38b6b808,2,500,JJ,65+,Male,21+ seasons,10,10,10,Just Right,Unaware
+979,16106c04,2,351,X,65+,Male,21+ seasons,8,4,7,Just Right,Aware and have NOT used/received
+980,5.20E+07,2,156,D,55-64,Male,6-10 season,9,6,9,Just Right,Unaware
+981,e3a6d0f6,2,246,D,55-64,Female,21+ seasons,3,5,7,Just Right,Aware and have NOT used/received
+982,aad12cb6,2,101,DD,45-54,Male,1 season,8,2,10,Just Right,Unaware
+983,e734a20a,2,390,FF,55-64,Female,2-5 season,10,5,8,Too Few,Aware and have used/received
+984,2558c039,2,476,NN,35-44,Male,21+ seasons,9,4,3,Just Right,Unaware
+985,70964392,2,279,CC,55-64,Male,2-5 season,8,4,10,Too Many,Unaware
+986,6a9b8299,2,548,X,55-64,Male,21+ seasons,9,5,6,Too Few,Aware and have NOT used/received
+987,365f98e9,2,259,S,55-64,Male,2-5 season,8,3,6,Too Few,Unaware
+988,2d21efc3,2,59,T,45-54,Male,2-5 season,8,8,8,Just Right,Aware and have NOT used/received
+989,b59a0046,2,117,KK,55-64,Male,2-5 season,2,7,6,Just Right,Aware and have NOT used/received
+990,bafd3eae,2,258,FF,45-54,Male,2-5 season,9,10,5,Too Many,Aware and have NOT used/received
+991,f30d7ff9,2,122,M,55-64,Male,2-5 season,4,8,8,Too Few,Aware and have NOT used/received
+992,a4524535,2,371,NN,35-44,Female,2-5 season,10,10,9,Just Right,Aware and have used/received
+993,00c274f7,2,376,FF,65+,Female,16-20 season,4,2,9,Too Many,Unaware
+994,d4061f5e,2,287,S,65+,Male,2-5 season,1,4,7,Just Right,Aware and have NOT used/received
+995,ff52ecc8,2,544,Q,65+,Female,21+ seasons,7,5,6,Just Right,Unaware
+996,2cecf2fd,2,387,EE,45-54,Male,11-20 season,1,6,7,Too Few,Aware and have used/received
+997,0b92ca0c,2,342,I,45-54,Male,1 season,7,6,6,Just Right,Aware and have used/received
+998,61a26e26,2,549,I,35-44,Male,21+ seasons,6,4,5,Too Few,Unaware
+999,25ea333d,2,17,Q,55-64,Female,6-10 season,9,9,4,Too Few,Unaware
+1000,0736d4a8,2,215,F,45-54,Male,6-10 season,9,3,4,Too Many,Aware and have used/received
+1001,f27583f0,2,52,C,45-54,Male,21+ seasons,9,7,8,Too Few,Unaware
+1002,2d57582e,2,366,T,45-54,Male,6-10 season,6,9,2,Too Few,Aware and have NOT used/received
+1003,9043e1c0,2,230,F,45-54,Male,1 season,10,10,10,Just Right,Unaware
+1004,3cd1f93b,2,490,M,65+,Male,21+ seasons,10,7,8,Just Right,Aware and have NOT used/received
+1005,a86be9e4,2,539,B,45-54,Male,1 season,8,7,9,Just Right,Unaware
+1006,4e858c16,2,444,MM,35-44,Male,6-10 season,10,6,10,Just Right,Unaware
+1007,91ba2efe,2,313,B,45-54,Male,2-5 season,8,7,9,Just Right,Unaware
+1008,2d32b17a,2,265,OO,55-64,Female,11-15 season,9,2,10,Too Few,Unaware
+1009,31b18bba,2,512,U,55-64,Female,2-5 season,10,7,4,Just Right,Unaware
+1010,4685a8f7,2,377,W,45-54,Male,1 season,9,7,1,Too Few,Aware and have used/received
+1011,bdc9af16,2,355,J,45-54,Male,1 season,8,2,9,Too Many,Aware and have NOT used/received
+1012,b84c33ef,2,484,K,35-44,Male,1 season,7,5,10,Just Right,Aware and have NOT used/received
+1013,c31991c6,2,344,P,45-54,Male,16-20 season,6,1,5,Too Many,Unaware
+1014,5e502a2e,2,459,M,55-64,Female,11-20 season,10,10,10,Just Right,Aware and have NOT used/received
+1015,ab28ed98,2,487,Y,35-44,Male,1 season,8,7,9,Too Many,Aware and have NOT used/received
+1016,8a4186cc,2,121,BB,45-54,Male,2-5 season,5,1,10,Too Few,Unaware
+1017,0083fc5d,2,408,Z,65+,Male,21+ seasons,7,2,5,Just Right,Unaware
+1018,4fe31607,2,152,GG,45-54,Male,2-5 season,8,8,4,Too Few,Unaware
+1019,5973025b,2,327,NN,65+,Female,11-15 season,10,2,9,Too Many,Aware and have NOT used/received
+1020,cdbfa718,2,123,S,45-54,Male,21+ seasons,6,3,7,Too Many,Unaware
+1021,ef4db906,2,395,L,25-34,Female,11-15 season,3,6,8,Too Many,Aware and have NOT used/received
+1022,081599ac,2,333,O,55-64,Male,11-20 season,3,1,2,Just Right,Aware and have NOT used/received
+1023,e19c4c6a,2,141,B,55-64,Female,11-20 season,8,4,10,Just Right,Aware and have NOT used/received
+1024,d4ea4ae3,2,232,O,25-34,Male,2-5 season,9,8,8,Just Right,Unaware
+1025,21973569,2,374,KK,55-64,Male,1 season,8,5,9,Just Right,Aware and have NOT used/received
+1026,b348e0f7,2,154,Z,45-54,Male,6-10 season,7,5,8,Just Right,Unaware
+1027,51197c3f,2,397,E,55-64,Male,2-5 season,6,4,8,Just Right,Aware and have NOT used/received
+1028,095c8b8c,2,241,P,45-54,Male,2-5 season,7,4,9,Too Few,Unaware
+1029,2a2e3809,2,245,V,45-54,Male,6-10 season,6,5,4,Too Few,Unaware
+1030,ffc4d45e,2,341,X,55-64,Female,6-10 season,5,4,6,Just Right,Unaware
+1031,067e99b7,2,533,C,55-64,Female,1 season,7,4,5,Too Few,Aware and have used/received
+1032,c156d63f,2,163,V,55-64,Female,21+ seasons,7,7,8,Too Few,Aware and have NOT used/received
+1033,21e38802,2,541,X,45-54,Male,2-5 season,10,8,10,Just Right,Unaware
+1034,ac3530ea,2,231,H,55-64,Male,6-10 season,9,2,3,Too Few,Aware and have NOT used/received
+1035,2953a715,2,245,V,55-64,Male,1 season,6,7,6,Too Few,Aware and have NOT used/received
+1036,c22c4dfd,2,229,H,Prefer not to answer,Female,21+ seasons,7,3,5,Too Few,Unaware
+1037,2b39f802,2,393,I,65+,Male,2-5 season,7,5,7,Just Right,Aware and have NOT used/received
+1038,01c3183f,2,229,X,65+,Female,21+ seasons,5,2,5,Just Right,Unaware
+1039,60ba34fd,2,547,U,35-44,Male,21+ seasons,9,2,2,Too Many,Aware and have used/received
+1040,8eaa9ce0,2,348,I,45-54,Female,6-10 season,8,7,7,Too Many,Aware and have NOT used/received
+1041,ce44fd38,2,226,OO,65+,Male,11-20 season,10,7,9,Just Right,Unaware
+1042,1ba35ff8,2,147,A,55-64,Prefer not to answer,11-20 season,1,5,5,Just Right,Aware and have NOT used/received
+1043,55aa6dd5,2,392,F,45-54,Female,11-15 season,5,2,9,Too Few,Aware and have NOT used/received
+1044,aa31e043,2,182,U,25-34,Male,1 season,10,6,2,Just Right,Aware and have NOT used/received
+1045,fb5c764c,2,185,HH,45-54,Male,6-10 season,10,5,9,Just Right,Aware and have used/received
+1046,7283fbc0,2,202,HH,25-34,Male,21+ seasons,7,7,9,Just Right,Unaware
+1047,b5bc624f,2,337,C,45-54,Female,1 season,10,5,5,Too Few,Unaware
+1048,40b9389d,2,368,LL,65+,Female,11-20 season,6,8,8,Just Right,Aware and have NOT used/received
+1049,952f02f9,2,173,BB,65+,Male,21+ seasons,2,3,7,Just Right,Unaware
+1050,1d82426d,2,401,MM,55-64,Male,21+ seasons,6,6,6,Just Right,Unaware
+1051,2846bf77,2,202,LL,35-44,Male,21+ seasons,6,1,3,Too Many,Aware and have NOT used/received
+1052,9309be4e,2,314,HH,45-54,Male,1 season,8,7,8,Just Right,Unaware
+1053,0ddc150d,2,122,H,35-44,Female,1 season,4,5,6,Just Right,Unaware
+1054,61e633a4,2,390,CC,35-44,Female,21+ seasons,7,1,7,Too Few,Unaware
+1055,8d223782,2,135,II,65+,Female,21+ seasons,8,6,10,Just Right,Aware and have NOT used/received
+1056,c2e53cd6,2,186,D,55-64,Male,21+ seasons,9,4,1,Just Right,Unaware
+1057,6b8510b4,2,231,BB,55-64,Male,2-5 season,10,10,2,Just Right,Unaware
+1058,asdf3265,2,224,E,55-64,Female,1 season,3,5,2,Too Many,Unaware
+1059,a26a56a6,2,342,F,55-64,Male,11-15 season,2,1,3,Too Many,Unaware
+1060,4fb5f555,2,133,W,65+,Female,21+ seasons,5,10,7,Just Right,Unaware
+1061,54356b5e,2,47,R,65+,Male,6-10 season,10,7,6,Too Many,Aware and have NOT used/received
+1062,4fc37957,2,150,G,65+,Male,21+ seasons,8,4,9,Just Right,Unaware
+1063,f03b247d,2,474,KK,25-34,Female,21+ seasons,10,10,6,Too Few,Aware and have NOT used/received
+1064,f1acd920,2,328,GG,55-64,Male,6-10 season,8,6,7,Just Right,Unaware
+1065,2a3114a0,2,29,W,25-34,Female,6-10 season,7,6,9,Just Right,Unaware
+1066,f13b3118,2,50,W,55-64,Female,16-20 season,7,2,6,Just Right,Aware and have NOT used/received
+1067,35b3f150,2,294,MM,45-54,Female,16-20 season,6,2,9,Too Few,Unaware
+1068,cd59bba8,2,417,Q,45-54,Male,6-10 season,7,1,8,Just Right,Aware and have NOT used/received
+1069,bdce7df7,2,293,CC,55-64,Female,6-10 season,7,5,5,Just Right,Aware and have used/received
+1070,155134fc,2,391,EE,35-44,Male,1 season,4,1,7,Just Right,Unaware
+1071,6a024fc4,2,180,L,45-54,Female,1 season,10,1,3,Just Right,Aware and have used/received
+1072,1440ab45,2,515,OO,65+,Male,21+ seasons,8,5,6,Just Right,Aware and have NOT used/received
+1073,e76f52b3,2,421,E,65+,Male,21+ seasons,10,4,10,Just Right,Aware and have NOT used/received
+1074,8f562d02,2,413,N,35-44,Male,16-20 season,5,7,6,Too Few,Aware and have used/received
+1075,7.42E+28,2,71,D,45-54,Male,11-20 season,1,5,6,Just Right,Aware and have NOT used/received
+1076,4cf8ce07,2,430,LL,65+,Male,21+ seasons,2,9,2,Too Few,Aware and have NOT used/received
+1077,ca05260c,2,176,X,65+,Male,21+ seasons,7,8,8,Just Right,Aware and have NOT used/received
+1078,04f2f882,2,497,KK,65+,Female,21+ seasons,7,5,9,Too Many,Aware and have used/received
+1079,780df9ee,2,453,HH,45-54,Male,6-10 season,7,6,7,Just Right,Aware and have used/received
+1080,d53c368c,2,259,EE,65+,Female,16-20 season,10,9,3,Just Right,Unaware
+1081,673a244f,2,161,W,65+,Male,21+ seasons,1,5,2,Just Right,Unaware
+1082,f47887c6,2,328,C,45-54,Male,21+ seasons,9,10,8,Too Few,Unaware
+1083,08f3bdb4,2,114,J,65+,Male,21+ seasons,5,7,7,Just Right,Unaware
+1084,bbd3c644,2,434,S,45-54,Female,6-10 season,6,6,5,Just Right,Aware and have NOT used/received
+1085,0dacd06f,2,54,T,55-64,Female,2-5 season,5,3,7,Just Right,Aware and have used/received
+1086,3ced2ad4,2,431,L,45-54,Female,2-5 season,9,1,9,Too Few,Unaware
+1087,5bb50754,2,241,E,55-64,Female,21+ seasons,10,7,8,Just Right,Unaware
+1088,5a71456f,2,249,S,55-64,Male,21+ seasons,9,7,9,Just Right,Aware and have NOT used/received
+1089,debc2ca4,2,354,FF,55-64,Male,1 season,8,5,7,Just Right,Unaware
+1090,b2244504,2,519,MM,55-64,Female,6-10 season,7,3,2,Just Right,Aware and have NOT used/received
+1091,b0831a6d,2,29,X,65+,Female,11-15 season,8,10,1,Just Right,Unaware
+1092,77ab1c45,2,352,H,Prefer not to answer,Prefer not to answer,11-20 season,9,8,9,Too Few,Aware and have NOT used/received
+1093,3aa8ab96,2,200,U,55-64,Male,21+ seasons,8,6,6,Just Right,Aware and have NOT used/received
+1094,580b2952,2,212,Y,65+,Male,21+ seasons,3,5,5,Just Right,Aware and have NOT used/received
+1095,2bddb33d,2,511,R,45-54,Female,6-10 season,9,9,8,Just Right,Aware and have NOT used/received
+1096,47985a6d,2,121,W,55-64,Male,11-20 season,2,2,2,Just Right,Aware and have NOT used/received
+1097,120831f7,2,148,G,45-54,Male,1 season,8,4,7,Just Right,Unaware
+1098,b5ddbca3,2,221,JJ,65+,Male,21+ seasons,6,1,7,Too Many,Unaware
+1099,b186b846,2,150,NN,65+,Female,21+ seasons,10,6,10,Just Right,Aware and have NOT used/received
+1100,3bc9a924,2,284,G,45-54,Male,21+ seasons,10,10,8,Too Few,Unaware
+1101,c13eb6a8,2,417,P,55-64,Female,6-10 season,7,3,1,Too Few,Aware and have NOT used/received
+1102,afa9c5e6,2,274,W,45-54,Female,2-5 season,8,4,7,Too Few,Aware and have NOT used/received
+1103,6939ecaa,2,271,P,45-54,Female,2-5 season,10,6,10,Too Many,Aware and have NOT used/received
+1104,49357a11,2,514,FF,65+,Male,2-5 season,10,7,7,Just Right,Aware and have NOT used/received
+1105,530015ad,2,358,GG,45-54,Male,2-5 season,8,1,5,Just Right,Aware and have used/received
+1106,3a10ffce,2,165,X,45-54,Male,11-20 season,9,6,7,Just Right,Aware and have NOT used/received
+1107,e02ba4f4,2,140,M,45-54,Male,2-5 season,7,7,7,Just Right,Unaware
+1108,b6a2c7ae,2,513,F,55-64,Male,2-5 season,4,8,9,Too Few,Unaware
+1109,6bd9be07,2,286,II,45-54,Male,2-5 season,8,8,10,Just Right,Unaware
+1110,c16232b3,2,526,Q,65+,Female,2-5 season,7,4,8,Too Few,Aware and have NOT used/received
+1111,0644a1b6,2,331,T,25-34,Male,11-15 season,5,6,9,Too Few,Aware and have NOT used/received
+1112,e4dab149,2,484,M,55-64,Male,1 season,9,1,8,Just Right,Unaware
+1113,e4f5228f,2,366,K,45-54,Female,6-10 season,8,8,6,Too Many,Unaware
+1114,9252e531,2,478,II,55-64,Male,2-5 season,6,5,8,Just Right,Unaware
+1115,d330e2e2,2,312,N,45-54,Male,21+ seasons,6,1,1,Just Right,Aware and have used/received
+1116,17beb1b2,2,528,W,45-54,Male,6-10 season,5,3,5,Too Few,Unaware
+1117,4bac9955,2,492,DD,55-64,Female,21+ seasons,9,8,9,Just Right,Unaware
+1118,fddb8023,2,150,E,65+,Male,21+ seasons,1,2,1,Too Few,Aware and have NOT used/received
+1119,d667bd7c,2,168,O,35-44,Male,2-5 season,4,1,5,Just Right,Unaware
+1120,8516bc4f,2,445,BB,35-44,Female,21+ seasons,6,9,8,Just Right,Aware and have used/received
+1121,434ad678,2,231,HH,55-64,Male,6-10 season,6,1,9,Too Few,Aware and have used/received
+1122,47b48676,2,238,EE,65+,Male,21+ seasons,4,3,5,Just Right,Unaware
+1123,aeb48200,2,385,P,25-34,Male,2-5 season,8,5,5,Just Right,Unaware
+1124,6be1ad59,2,23,I,45-54,Female,6-10 season,10,5,1,Too Many,Aware and have used/received
+1125,d8d6b9c9,2,540,R,65+,Male,21+ seasons,1,7,5,Too Many,Unaware
+1126,0f101e6a,2,308,BB,45-54,Male,11-15 season,10,4,2,Just Right,Unaware
+1127,034ae96b,2,481,E,55-64,Male,6-10 season,5,5,7,Just Right,Unaware
+1128,c29d1b5e,2,348,HH,35-44,Male,2-5 season,10,8,10,Just Right,Unaware
+1129,587d61e3,2,544,CC,55-64,Male,21+ seasons,8,7,7,Too Many,Unaware
+1130,ebfec873,2,405,A,65+,Female,6-10 season,7,3,6,Just Right,Unaware
+1131,a422e9fe,2,56,I,45-54,Female,1 season,10,4,10,Too Many,Unaware
+1132,096768f7,2,385,S,35-44,Male,1 season,9,3,2,Just Right,Aware and have NOT used/received
+1133,9025f9a6,2,64,E,65+,Male,11-15 season,8,10,9,Too Few,Unaware
+1134,0efbd8e1,2,24,C,45-54,Female,6-10 season,8,3,2,Too Few,Unaware
+1135,8ee49a12,2,449,LL,55-64,Female,2-5 season,10,4,8,Too Many,Unaware
+1136,b0926248,2,537,AA,65+,Male,21+ seasons,1,1,8,Just Right,Unaware
+1137,01155fdc,2,392,N,65+,Female,2-5 season,9,4,6,Just Right,Unaware
+1138,56221b9e,2,471,Y,45-54,Male,11-20 season,7,5,7,Just Right,Unaware
+1139,a1aea1e4,2,9,F,65+,Female,6-10 season,10,8,8,Too Few,Unaware
+1140,e4eb2fbf,2,63,E,45-54,Female,2-5 season,8,7,5,Too Few,Aware and have used/received
+1141,6abae9aa,2,80,W,35-44,Male,11-15 season,8,9,3,Just Right,Unaware
+1142,1ab58b7b,2,38,U,55-64,Male,1 season,9,8,8,Just Right,Unaware
+1143,867bcdf8,2,404,C,65+,Female,21+ seasons,10,9,10,Just Right,Unaware
+1144,15d08a43,2,515,V,65+,Male,2-5 season,9,8,9,Just Right,Unaware
+1145,3da33163,2,502,I,45-54,Male,11-15 season,4,2,6,Just Right,Unaware
+1146,146aa33a,2,527,OO,25-34,Female,16-20 season,3,6,6,Too Many,Aware and have used/received
+1147,8298ysdg,2,456,KK,65+,Male,16-20 season,1,8,4,Just Right,Unaware
+1148,afdafa39,2,105,MM,35-44,Female,2-5 season,7,7,7,Just Right,Aware and have NOT used/received
+1149,5b7636cb,2,465,OO,55-64,Female,6-10 season,10,8,10,Just Right,Aware and have NOT used/received
+1150,14674e8b,2,298,R,55-64,Male,16-20 season,6,2,4,Too Many,Aware and have NOT used/received
+1151,beb84454,2,512,DD,45-54,Female,6-10 season,10,3,7,Too Few,Aware and have used/received
+1152,a29fc81a,2,81,J,45-54,Female,16-20 season,2,4,5,Just Right,Aware and have used/received
+1153,4436536e,2,405,X,45-54,Male,21+ seasons,7,8,10,Just Right,Aware and have NOT used/received
+1154,5eea5a1f,2,162,A,35-44,Male,16-20 season,8,9,1,Too Many,Aware and have NOT used/received
+1155,94d3eebc,2,503,LL,45-54,Female,16-20 season,9,10,7,Too Few,Aware and have NOT used/received
+1156,b73b3467,2,318,C,45-54,Male,1 season,7,6,7,Too Many,Unaware
+1157,7d7c4112,2,460,V,45-54,Male,11-15 season,9,8,4,Too Many,Aware and have NOT used/received
+1158,91a33d46,2,327,I,45-54,Male,6-10 season,10,8,1,Just Right,Unaware
+1159,341a996b,2,345,J,55-64,Female,11-15 season,7,8,1,Too Many,Unaware
+1160,55981491,2,523,OO,25-34,Female,16-20 season,8,6,4,Too Many,Unaware
+1161,a601c332,2,436,I,55-64,Female,6-10 season,4,7,7,Just Right,Unaware
+1162,38e208e6,2,485,E,55-64,Female,2-5 season,3,5,3,Too Few,Aware and have NOT used/received
+1163,e899220b,2,407,V,45-54,Male,11-20 season,7,7,6,Too Few,Aware and have used/received
+1164,6b91c119,2,47,Y,65+,Male,1 season,6,10,10,Too Few,Unaware
+1165,cdfd92fe,2,345,HH,45-54,Male,6-10 season,8,8,4,Too Few,Aware and have NOT used/received
+1166,97729dc0,2,508,A,45-54,Female,2-5 season,5,5,1,Too Many,Unaware
+1167,d0043ebb,2,127,G,55-64,Male,21+ seasons,7,8,3,Too Few,Unaware
+1168,0ec0a736,2,122,W,45-54,Male,21+ seasons,2,2,2,Just Right,Aware and have NOT used/received
+1169,cdbce98b,2,229,JJ,45-54,Male,21+ seasons,7,5,6,Just Right,Unaware
+1170,8e8cb8a2,2,525,S,45-54,Male,11-20 season,9,7,8,Just Right,Unaware
+1171,ad8f203b,2,452,X,45-54,Female,21+ seasons,9,5,8,Just Right,Unaware
+1172,12cfa9d5,2,529,CC,55-64,Female,6-10 season,10,1,2,Too Many,Unaware
+1173,06651a24,2,322,V,35-44,Female,6-10 season,6,1,4,Too Few,Aware and have used/received
+1174,9579db84,2,530,A,35-44,Male,1 season,10,8,9,Just Right,Unaware
+1175,e96ed917,2,232,EE,65+,Female,2-5 season,3,10,1,Too Many,Unaware
+1176,82f9bf91,2,164,F,45-54,Female,16-20 season,7,3,1,Just Right,Aware and have NOT used/received
+1177,5e76ecc8,2,178,JJ,65+,Male,21+ seasons,7,6,10,Just Right,Unaware
+1178,c87648a7,2,494,Z,45-54,Male,16-20 season,7,10,7,Just Right,Unaware
+1179,9bc5b4e7,2,156,N,65+,Male,11-15 season,4,4,7,Too Few,Unaware
+1180,15b0b6e0,2,257,H,45-54,Female,16-20 season,10,1,3,Too Many,Aware and have used/received
+1181,4ff9600f,2,549,Y,65+,Male,16-20 season,9,4,7,Just Right,Unaware
+1182,da9ba6c2,2,192,N,55-64,Female,2-5 season,8,8,8,Just Right,Unaware
+1183,bdd59622,2,37,X,65+,Male,16-20 season,5,3,7,Too Few,Unaware
+1184,a269cd73,2,12,A,65+,Female,6-10 season,7,1,8,Too Many,Unaware
+1185,37d8de3f,2,478,W,45-54,Female,2-5 season,6,8,6,Too Many,Unaware
+1186,25ea28f9,2,510,Y,35-44,Male,2-5 season,9,7,10,Just Right,Unaware
+1187,d1861620,2,372,FF,65+,Male,21+ seasons,8,5,5,Too Many,Aware and have NOT used/received
+1188,e92e67ad,2,526,B,25-34,Female,2-5 season,9,3,7,Just Right,Unaware
+1189,b190a3e0,2,119,G,65+,Female,6-10 season,8,6,6,Just Right,Aware and have NOT used/received
+1190,f1117d79,2,387,F,65+,Male,6-10 season,3,3,9,Too Many,Aware and have NOT used/received
+1191,7733efda,2,322,KK,35-44,Female,6-10 season,6,6,8,Too Few,Aware and have NOT used/received
+1192,4590486b,2,178,II,25-34,Male,6-10 season,2,1,7,Too Few,Unaware
+1193,adf46a47,2,194,H,55-64,Male,2-5 season,6,2,4,Too Few,Aware and have NOT used/received
+1194,818cfe4b,2,107,O,65+,Male,21+ seasons,8,8,8,Just Right,Aware and have used/received
+1195,4e69f80a,2,368,CC,35-44,Male,1 season,9,7,7,Just Right,Unaware
+1196,273aef39,2,232,Z,25-34,Female,6-10 season,7,5,8,Too Many,Unaware
+1197,408cfb7d,2,324,O,65+,Male,21+ seasons,1,7,5,Just Right,Aware and have used/received
+1198,6a93913d,2,390,AA,65+,Female,21+ seasons,4,5,5,Just Right,Aware and have NOT used/received
+1199,c857e1ec,2,211,GG,55-64,Male,21+ seasons,8,8,8,Just Right,Unaware
+1200,1df1669f,2,149,P,45-54,Male,21+ seasons,3,6,7,Just Right,Unaware
+1201,8abc7cf5,2,359,A,65+,Female,21+ seasons,5,6,5,Just Right,Unaware
+1202,db44ad22,2,7,K,45-54,Male,21+ seasons,10,1,7,Just Right,Unaware
+1203,542b5bee,2,56,A,55-64,Female,11-15 season,10,5,5,Just Right,Unaware
+1204,6e626c8e,2,261,F,55-64,Female,6-10 season,9,1,7,Just Right,Aware and have used/received
+1205,31173f79,2,495,P,35-44,Male,2-5 season,10,10,10,Just Right,Aware and have NOT used/received
+1206,696b8866,2,48,V,45-54,Male,2-5 season,6,9,4,Too Few,Unaware
+1207,778fd7b3,2,309,MM,25-34,Male,11-15 season,10,9,4,Too Many,Unaware
+1208,972ac3c2,2,338,A,45-54,Male,21+ seasons,7,6,6,Just Right,Aware and have NOT used/received
+1209,6343333c,2,550,GG,45-54,Female,11-20 season,9,8,9,Too Few,Unaware
+1210,5eb19f14,2,354,OO,35-44,Male,2-5 season,8,10,7,Too Few,Aware and have NOT used/received
+1211,8fca040b,2,186,I,55-64,Male,2-5 season,9,6,9,Just Right,Unaware
+1212,13292c74,2,286,H,65+,Male,21+ seasons,7,4,7,Too Few,Aware and have NOT used/received
+1213,66f8d354,2,452,E,35-44,Male,2-5 season,9,8,8,Just Right,Unaware
+1214,cca1f6cb,2,86,V,65+,Male,6-10 season,4,7,4,Just Right,Aware and have NOT used/received
+1215,ee684e5c,2,85,G,35-44,Male,1 season,2,5,7,Just Right,Aware and have NOT used/received
+1216,65bf1136,2,150,NN,45-54,Male,1 season,8,6,8,Just Right,Aware and have NOT used/received
+1217,159a51b2,2,470,OO,65+,Male,11-15 season,6,5,9,Too Many,Aware and have NOT used/received
+1218,40b07d1c,2,383,AA,55-64,Female,21+ seasons,4,4,5,Too Few,Aware and have NOT used/received
+1219,1309aa84,2,30,O,45-54,Male,11-15 season,4,2,5,Too Many,Unaware
+1220,1828caba,2,84,I,45-54,Female,2-5 season,10,2,2,Too Many,Unaware
+1221,ed054cfe,2,134,H,65+,Male,21+ seasons,10,1,5,Just Right,Unaware
+1222,6f07b90c,2,183,B,45-54,Female,1 season,8,10,10,Too Many,Aware and have used/received
+1223,77d03cf8,2,387,F,45-54,Female,6-10 season,7,1,3,Just Right,Unaware
+1224,91fb3742,2,380,OO,45-54,Female,21+ seasons,9,5,5,Too Many,Aware and have NOT used/received
+1225,7f934ffc,2,289,L,35-44,Male,1 season,7,5,8,Just Right,Unaware
+1226,49f2ca49,2,159,G,55-64,Male,6-10 season,10,1,4,Just Right,Unaware
+1227,1c7b3104,2,42,L,45-54,Male,11-15 season,6,10,1,Just Right,Aware and have NOT used/received
+1228,e1ce6753,2,57,R,65+,Female,11-15 season,8,3,1,Just Right,Unaware
+1229,948d868d,2,309,B,55-64,Male,21+ seasons,7,8,9,Just Right,Unaware
+1230,4248558,2,438,R,55-64,Female,11-20 season,8,7,8,Just Right,Unaware
+1231,38bd4c0a,2,535,GG,25-34,Male,2-5 season,5,3,6,Too Few,Aware and have NOT used/received
+1232,813ee0ba,2,113,P,55-64,Male,11-20 season,8,7,8,Just Right,Aware and have NOT used/received
+1233,8893a3b4,2,18,E,25-34,Female,11-15 season,5,7,5,Just Right,Unaware
+1234,483d8bd3,2,290,EE,55-64,Male,21+ seasons,8,6,9,Just Right,Unaware
+1235,6cd42635,2,123,DD,45-54,Male,21+ seasons,9,4,8,Just Right,Unaware
+1236,956216a3,2,279,L,45-54,Male,11-15 season,9,10,5,Too Many,Aware and have NOT used/received
+1237,4868c8a8,2,383,Q,45-54,Female,11-15 season,7,1,9,Just Right,Unaware
+1238,5d74b805,2,240,OO,45-54,Male,21+ seasons,4,3,8,Just Right,Unaware
+1239,dd406066,2,31,K,55-64,Female,16-20 season,10,4,7,Just Right,Unaware
+1240,4d291c03,2,456,II,45-54,Male,2-5 season,6,6,9,Just Right,Unaware
+1241,42ac0a14,2,548,M,45-54,Female,2-5 season,9,4,5,Too Many,Aware and have NOT used/received
+1242,5a6c7b21,2,248,BB,45-54,Male,21+ seasons,1,2,3,Just Right,Unaware
+1243,25e20b03,2,392,T,45-54,Female,11-15 season,9,6,4,Just Right,Unaware
+1244,cf61a7f4,2,514,S,55-64,Male,1 season,7,8,10,Just Right,Aware and have NOT used/received
+1245,8032d8ab,2,48,O,25-34,Female,16-20 season,9,4,8,Just Right,Unaware
+1246,443bc6e7,2,328,BB,55-64,Male,2-5 season,8,7,10,Just Right,Aware and have used/received
+1247,ea56b4fd,2,228,AA,55-64,Male,21+ seasons,8,7,8,Just Right,Unaware
+1248,7dc49169,2,165,I,55-64,Female,11-15 season,6,2,4,Too Few,Unaware
+1249,d600c8f7,2,279,U,35-44,Male,11-20 season,9,7,9,Just Right,Aware and have NOT used/received
+1250,92624560,2,370,D,35-44,Male,16-20 season,4,3,4,Too Few,Unaware
+1251,6b5ca8a7,2,415,V,65+,Male,21+ seasons,5,5,5,Just Right,Aware and have used/received
+1252,f3733049,2,315,U,55-64,Male,2-5 season,9,8,8,Just Right,Aware and have NOT used/received
+1253,5937c1a5,2,211,B,55-64,Female,16-20 season,6,1,6,Too Many,Aware and have NOT used/received
+1254,b6db89c3,2,533,BB,Prefer not to answer,Prefer not to answer,1 season,8,7,9,Just Right,Aware and have NOT used/received
+1255,9bd5c987,2,243,CC,45-54,Female,11-15 season,8,10,8,Too Few,Unaware
+1256,7a43d72c,2,273,OO,45-54,Male,6-10 season,8,8,9,Just Right,Aware and have NOT used/received
+1257,fef8cf80,2,494,N,35-44,Female,6-10 season,8,10,8,Just Right,Unaware
+1258,193ef161,2,287,W,65+,Male,21+ seasons,8,6,6,Just Right,Unaware
+1259,a0a94040,2,400,M,25-34,Female,11-15 season,8,9,3,Too Many,Aware and have NOT used/received
+1260,68a478f6,2,170,I,45-54,Female,6-10 season,9,6,10,Just Right,Unaware
+1261,b171d3b9,2,41,C,55-64,Female,11-15 season,2,5,5,Too Many,Unaware
+1262,176aedc1,2,324,D,35-44,Female,6-10 season,10,3,7,Too Few,Unaware
+1263,d2387d53,2,509,F,65+,Male,6-10 season,8,7,9,Just Right,Unaware
+1264,7cfd507c,2,507,E,65+,Male,21+ seasons,9,4,10,Just Right,Unaware
+1265,d77c4374,2,503,M,45-54,Male,16-20 season,5,10,1,Too Many,Unaware
+1266,1177d82f,2,360,F,25-34,Male,16-20 season,1,7,7,Too Many,Unaware
+1267,ff5b8519,2,454,V,55-64,Male,21+ seasons,10,10,10,Just Right,Aware and have NOT used/received
+1268,06470fe9,2,115,FF,25-34,Female,6-10 season,4,5,9,Too Few,Aware and have NOT used/received
+1269,39dbb848,2,300,J,45-54,Female,11-15 season,7,2,7,Too Few,Aware and have used/received
+1270,ed45eb2b,2,109,DD,45-54,Female,16-20 season,6,10,3,Too Many,Unaware
+1271,833df126,2,301,NN,45-54,Female,21+ seasons,8,5,9,Just Right,Unaware
+1272,ac936570,2,496,II,45-54,Male,6-10 season,7,3,7,Just Right,Aware and have NOT used/received
+1273,ffe43ef3,2,299,W,55-64,Male,6-10 season,5,7,7,Too Many,Unaware
+1274,d528519d,2,291,U,45-54,Male,2-5 season,8,3,1,Too Few,Unaware
+1275,9297b724,2,116,L,45-54,Female,11-20 season,2,8,7,Just Right,Unaware
+1276,cca9a047,2,524,T,65+,Male,21+ seasons,7,3,5,Just Right,Unaware
+1277,62ec3a0e,2,107,F,45-54,Male,21+ seasons,5,7,5,Just Right,Aware and have NOT used/received
+1278,a01db5cd,2,375,H,55-64,Male,16-20 season,9,7,8,Too Many,Unaware
+1279,63a7fd74,2,467,Y,35-44,Female,6-10 season,8,6,1,Just Right,Unaware
+1280,4024cdbc,2,210,H,55-64,Male,2-5 season,9,7,7,Just Right,Unaware
+1281,6d834fb3,2,374,CC,55-64,Female,11-20 season,7,6,7,Just Right,Aware and have NOT used/received
+1282,07223ee4,2,304,S,45-54,Female,16-20 season,7,5,6,Just Right,Aware and have NOT used/received
+1283,86b70a38,2,207,N,45-54,Male,1 season,9,2,8,Just Right,Unaware
+1284,55034c0a,2,182,N,65+,Male,21+ seasons,9,7,9,Just Right,Unaware
+1285,fa564a88,2,390,DD,55-64,Female,6-10 season,6,2,2,Too Few,Unaware
+1286,39d716e1,2,144,LL,35-44,Male,16-20 season,7,10,2,Too Many,Aware and have NOT used/received
+1287,4cccd5e6,2,350,M,35-44,Female,6-10 season,5,8,7,Too Few,Unaware
+1288,d6007b75,2,249,T,45-54,Male,11-15 season,8,2,2,Too Few,Aware and have NOT used/received
+1289,0f21f493,2,468,B,55-64,Female,11-20 season,3,2,5,Just Right,Unaware
+1290,d8574a8f,2,382,FF,65+,Male,16-20 season,9,8,6,Too Many,Unaware
+1291,5d27c2b3,2,261,II,35-44,Male,2-5 season,8,8,10,Just Right,Unaware
+1292,a0f93369,2,237,GG,65+,Female,11-15 season,7,6,7,Just Right,Unaware
+1293,05cd1eeb,2,113,MM,65+,Male,11-20 season,3,7,1,Just Right,Aware and have NOT used/received
+1294,16383277,2,46,F,65+,Male,2-5 season,5,5,8,Too Many,Unaware
+1295,6bfe02f6,2,359,M,45-54,Female,2-5 season,4,7,9,Too Many,Unaware
+1296,5.53E+41,2,396,J,35-44,Male,11-15 season,10,6,3,Just Right,Unaware
+1297,09aec06f,2,517,K,55-64,Male,11-15 season,7,6,7,Too Few,Unaware
+1298,a1845e57,2,370,E,65+,Male,21+ seasons,5,8,7,Too Few,Aware and have NOT used/received
+1299,e65b6187,2,21,L,55-64,Male,6-10 season,10,5,10,Just Right,Unaware
+1300,d3c42878,2,232,C,25-34,Male,11-15 season,8,10,2,Just Right,Aware and have NOT used/received
+1301,a70bca8c,2,528,LL,45-54,Female,21+ seasons,6,6,1,Just Right,Unaware
+1302,c7c11859,2,521,GG,55-64,Male,21+ seasons,6,7,6,Just Right,Unaware
+1303,48afa358,2,334,D,35-44,Male,21+ seasons,8,3,9,Just Right,Aware and have used/received
+1304,1db358c8,2,189,GG,35-44,Male,1 season,8,6,10,Just Right,Unaware
+1305,58e52e02,2,337,M,65+,Male,6-10 season,9,9,10,Just Right,Unaware
+1306,0badab04,2,293,MM,65+,Female,21+ seasons,5,3,5,Too Few,Aware and have NOT used/received
+1307,1e3714cf,2,448,I,45-54,Male,6-10 season,5,2,5,Just Right,Aware and have NOT used/received
+1308,fff30805,2,201,EE,45-54,Male,11-20 season,5,7,8,Just Right,Unaware
+1309,f88272c5,2,38,F,55-64,Male,16-20 season,9,2,1,Too Few,Unaware
+1310,eba4b32e,2,49,D,55-64,Male,6-10 season,7,5,6,Too Few,Aware and have used/received
+1311,9f31d476,2,230,CC,65+,Male,21+ seasons,10,4,8,Too Few,Unaware
+1312,d943bc8d,2,150,J,45-54,Male,21+ seasons,8,7,6,Too Few,Unaware
+1313,82fb7106,2,79,K,55-64,Male,2-5 season,10,4,7,Too Many,Unaware
+1314,2d525780,2,489,JJ,45-54,Male,2-5 season,9,8,10,Just Right,Unaware
+1315,599247bf,2,86,F,45-54,Male,11-15 season,7,2,3,Too Few,Unaware
+1316,9feb1f1b,2,165,A,45-54,Male,2-5 season,8,7,7,Just Right,Unaware
+1317,feff5312,2,272,S,35-44,Female,1 season,7,9,5,Too Many,Aware and have NOT used/received
+1318,657e0b46,2,384,F,45-54,Male,2-5 season,7,6,7,Just Right,Unaware
+1319,b1f779cf,2,107,AA,65+,Male,21+ seasons,5,4,5,Just Right,Aware and have NOT used/received
+1320,d647af81,2,137,T,65+,Male,11-20 season,10,3,7,Just Right,Aware and have used/received
+1321,e572ae8e,2,493,P,45-54,Male,2-5 season,6,5,7,Just Right,Unaware
+1322,3f9e5dbe,2,522,E,45-54,Female,2-5 season,9,10,6,Too Many,Aware and have NOT used/received
+1323,190b4d98,2,537,O,45-54,Male,1 season,8,5,7,Just Right,Aware and have NOT used/received
+1324,cddecc70,2,328,HH,65+,Male,21+ seasons,10,10,10,Just Right,Unaware
+1325,89bc7fad,2,59,G,55-64,Female,21+ seasons,8,1,5,Too Many,Unaware
+1326,f08dfcc9,2,326,HH,45-54,Male,11-20 season,5,3,7,Just Right,Aware and have NOT used/received
+1327,e18b6ce0,2,230,U,55-64,Female,6-10 season,1,6,5,Just Right,Aware and have NOT used/received
+1328,cc5eea09,2,243,Z,55-64,Female,2-5 season,1,1,4,Too Few,Unaware
+1329,44d0e039,2,107,BB,35-44,Male,11-15 season,6,10,5,Too Few,Unaware
+1330,0cf62207,2,512,GG,55-64,Male,11-20 season,10,3,10,Just Right,Aware and have NOT used/received
+1331,7dba8955,2,283,U,45-54,Male,2-5 season,3,4,8,Too Few,Aware and have used/received
+1332,2961313b,2,116,B,65+,Male,6-10 season,8,5,7,Too Few,Unaware
+1333,03a4b35d,2,50,L,45-54,Male,6-10 season,5,1,10,Too Many,Unaware
+1334,b744a7d8,2,513,Q,45-54,Female,11-15 season,1,3,9,Too Many,Aware and have NOT used/received
+1335,3cc5bb71,2,259,JJ,65+,Male,21+ seasons,10,5,4,Too Few,Aware and have used/received
+1336,40b13e3c,2,88,Z,45-54,Male,6-10 season,5,5,3,Just Right,Aware and have NOT used/received
+1337,a06cba74,2,238,B,45-54,Female,11-15 season,8,4,9,Too Few,Unaware
+1338,9fbfa68b,2,401,MM,65+,Female,21+ seasons,5,6,7,Just Right,Unaware
+1339,c48ebe86,2,338,JJ,35-44,Female,2-5 season,9,5,4,Just Right,Aware and have NOT used/received
+1340,7f9b9c44,2,427,D,65+,Male,21+ seasons,4,6,8,Too Few,Unaware
+1341,1349ac5f,2,107,GG,45-54,Male,1 season,10,8,10,Just Right,Unaware
+1342,110fa5d7,2,302,A,65+,Male,21+ seasons,8,3,10,Just Right,Unaware
+1343,7656d58d,2,484,JJ,45-54,Female,11-15 season,9,10,4,Too Few,Unaware
+1344,a968ac32,2,440,V,55-64,Female,6-10 season,6,3,7,Too Many,Aware and have used/received
+1345,796ef61a,2,68,J,65+,Male,2-5 season,7,5,2,Too Few,Aware and have used/received
+1346,21b416a9,2,309,F,65+,Female,21+ seasons,3,5,2,Too Few,Aware and have NOT used/received
+1347,db468609,2,94,V,35-44,Male,2-5 season,6,10,3,Just Right,Unaware
+1348,65271235,2,418,DD,65+,Female,6-10 season,8,8,6,Just Right,Aware and have NOT used/received
+1349,bfd4b883,2,291,F,45-54,Male,21+ seasons,7,6,3,Too Few,Unaware
+1350,9b5ac91e,2,518,KK,55-64,Male,1 season,8,3,8,Too Few,Unaware
+1351,4c4f9cdd,2,28,Q,45-54,Female,11-15 season,8,2,8,Too Many,Unaware
+1352,680c8e47,2,63,O,45-54,Male,2-5 season,5,7,2,Just Right,Aware and have NOT used/received
+1353,6a7b5f5f,2,522,NN,55-64,Male,21+ seasons,9,5,8,Just Right,Aware and have NOT used/received
+1354,b497a168,2,146,R,35-44,Female,16-20 season,8,4,4,Too Many,Unaware
+1355,bcfae6da,2,204,EE,45-54,Male,21+ seasons,1,4,7,Too Many,Unaware
+1356,e8e1716d,2,356,Z,35-44,Male,1 season,8,7,7,Just Right,Aware and have NOT used/received
+1357,8aefd274,2,362,W,45-54,Male,6-10 season,7,7,7,Too Few,Unaware
+1358,d681e00e,2,231,P,45-54,Male,2-5 season,8,8,8,Just Right,Unaware
+1359,0a8ba780,2,451,CC,35-44,Female,11-20 season,8,5,9,Just Right,Unaware
+1360,0ca80020,2,373,S,45-54,Male,1 season,7,3,4,Too Many,Aware and have NOT used/received
+1361,b592d596,2,213,Q,55-64,Male,2-5 season,3,4,7,Just Right,Aware and have NOT used/received
+1362,c1981c53,2,175,FF,55-64,Male,11-20 season,10,8,10,Just Right,Unaware
+1363,4e05c7cf,2,253,FF,65+,Male,21+ seasons,10,1,9,Just Right,Aware and have NOT used/received
+1364,9566efb3,2,340,R,45-54,Male,6-10 season,6,6,7,Just Right,Unaware
+1365,a541a65b,2,194,GG,65+,Male,21+ seasons,8,6,5,Too Few,Aware and have NOT used/received
+1366,db632c48,2,490,NN,45-54,Male,1 season,8,6,9,Just Right,Aware and have NOT used/received
+1367,95b68c1e,2,466,Z,65+,Male,11-20 season,7,8,8,Too Few,Unaware
+1368,39258aa4,2,143,H,65+,Male,21+ seasons,3,5,7,Just Right,Aware and have NOT used/received
+1369,ca612c9b,2,366,DD,45-54,Female,2-5 season,7,6,3,Just Right,Unaware
+1370,cddba610,2,528,GG,45-54,Male,2-5 season,6,1,7,Too Few,Unaware
+1371,49277a8a,2,321,AA,55-64,Male,2-5 season,10,8,7,Just Right,Aware and have NOT used/received
+1372,6a2774bf,2,513,T,45-54,Male,21+ seasons,9,1,3,Too Few,Aware and have NOT used/received
+1373,5cf84fc8,2,413,C,25-34,Female,16-20 season,6,5,8,Too Many,Aware and have NOT used/received
+1374,b1da13df,2,431,CC,55-64,Prefer not to answer,2-5 season,1,4,7,Too Few,Aware and have NOT used/received
+1375,0af80b81,2,521,C,45-54,Male,21+ seasons,7,5,6,Just Right,Aware and have NOT used/received
+1376,e3719a7e,2,82,N,45-54,Male,6-10 season,7,3,9,Just Right,Aware and have NOT used/received
+1377,f4733fc4,2,385,C,55-64,Male,21+ seasons,8,6,9,Just Right,Aware and have NOT used/received
+1378,e8bc014a,2,170,OO,45-54,Male,2-5 season,7,3,8,Just Right,Aware and have NOT used/received
+1379,2d39d167,2,383,L,55-64,Male,21+ seasons,10,8,9,Just Right,Unaware
+1380,992cd329,2,492,C,65+,Male,21+ seasons,3,2,2,Too Few,Unaware
+1381,3cbec72e,2,373,A,45-54,Female,1 season,9,7,9,Just Right,Aware and have NOT used/received
+1382,6570be1f,2,261,K,Prefer not to answer,Prefer not to answer,11-20 season,8,2,5,Just Right,Aware and have NOT used/received
+1383,58423d5e,2,110,C,35-44,Male,6-10 season,9,10,1,Too Few,Aware and have NOT used/received
+1384,31dd21d9,2,297,W,55-64,Female,21+ seasons,3,1,1,Just Right,Aware and have NOT used/received
+1385,25828a69,2,178,CC,65+,Male,2-5 season,8,4,9,Just Right,Aware and have NOT used/received
+1386,248b742f,2,141,K,55-64,Female,11-15 season,7,5,8,Too Many,Unaware
+1387,7bc050c9,2,274,R,35-44,Male,2-5 season,5,3,7,Just Right,Aware and have NOT used/received
+1388,9d11a454,2,155,W,65+,Male,11-20 season,10,6,10,Just Right,Aware and have used/received
+1389,6a600499,2,236,V,25-34,Male,2-5 season,5,9,2,Too Few,Aware and have NOT used/received
+1390,72ace6db,2,48,G,35-44,Female,6-10 season,7,9,5,Too Many,Aware and have NOT used/received
+1391,184cb13f,2,181,I,55-64,Male,6-10 season,9,7,8,Just Right,Aware and have NOT used/received
+1392,01ce515a,2,145,O,45-54,Male,6-10 season,1,1,5,Just Right,Unaware
+1393,13def51e,2,244,X,55-64,Female,6-10 season,8,10,6,Too Many,Aware and have NOT used/received
+1394,8b0ebe7f,2,371,JJ,35-44,Female,6-10 season,7,3,1,Too Few,Unaware
+1395,fec83e06,2,227,Q,65+,Male,1 season,10,10,10,Just Right,Unaware
+1396,62e811f5,2,458,MM,25-34,Male,21+ seasons,7,9,4,Too Many,Aware and have NOT used/received
+1397,d4b809a5,2,272,N,65+,Female,6-10 season,7,3,7,Just Right,Aware and have NOT used/received
+1398,f3802d9c,2,226,Q,25-34,Male,11-15 season,8,5,7,Too Few,Aware and have NOT used/received
+1399,fe902650,2,531,W,55-64,Female,21+ seasons,9,1,10,Just Right,Aware and have NOT used/received
+1400,54089574,2,50,I,65+,Male,11-20 season,7,1,8,Too Few,Unaware
+1401,c8bca79f,2,538,CC,55-64,Female,11-15 season,10,5,2,Just Right,Unaware
+1402,7a8ae7fd,2,65,Q,45-54,Male,21+ seasons,8,6,2,Too Few,Unaware
+1403,e670b447,2,152,G,55-64,Male,2-5 season,8,7,5,Too Many,Aware and have NOT used/received
+1404,d5699b96,2,511,EE,55-64,Female,11-15 season,7,5,6,Too Few,Unaware
+1405,73963f81,2,364,B,55-64,Male,1 season,10,10,7,Just Right,Aware and have used/received
+1406,42145519,2,113,K,65+,Male,2-5 season,10,8,8,Too Few,Aware and have NOT used/received
+1407,db05e9ec,2,520,Z,55-64,Male,1 season,9,5,10,Just Right,Unaware
+1408,7ae35b6c,2,166,E,65+,Male,21+ seasons,5,3,10,Just Right,Unaware
+1409,8444b919,2,284,LL,65+,Female,2-5 season,10,8,8,Just Right,Unaware
+1410,fe0c6b59,2,295,MM,55-64,Female,21+ seasons,7,8,9,Just Right,Unaware
+1411,7a8d1fd6,2,244,II,45-54,Male,11-15 season,3,2,3,Too Few,Aware and have NOT used/received
+1412,27ef690d,2,189,L,55-64,Male,1 season,10,6,10,Just Right,Unaware
+1413,a910605b,2,185,G,55-64,Female,6-10 season,7,10,6,Just Right,Unaware
+1414,641f0133,2,167,OO,55-64,Male,2-5 season,10,4,10,Just Right,Aware and have NOT used/received
+1415,ddeb2a10,2,453,HH,35-44,Male,21+ seasons,8,4,7,Too Many,Aware and have NOT used/received
+1416,69ce5259,2,215,AA,35-44,Male,2-5 season,3,9,4,Too Many,Unaware
+1417,7e8079a0,2,337,FF,45-54,Male,21+ seasons,4,4,7,Just Right,Unaware
+1418,940bc75c,2,343,Y,45-54,Male,2-5 season,8,9,10,Too Few,Aware and have NOT used/received
+1419,2eb9c01b,2,506,S,45-54,Female,21+ seasons,9,9,10,Just Right,Unaware
+1420,dba4966e,2,281,I,65+,Male,11-20 season,2,4,1,Too Few,Unaware
+1421,771150ef,2,57,L,55-64,Female,2-5 season,8,5,3,Too Few,Aware and have NOT used/received
+1422,25bc0790,2,388,W,45-54,Male,11-15 season,3,1,5,Too Many,Aware and have NOT used/received
+1423,ea9c0659,2,546,U,45-54,Female,6-10 season,7,4,9,Just Right,Aware and have used/received
+1424,85af0d81,2,154,E,65+,Male,21+ seasons,5,5,6,Too Few,Aware and have NOT used/received
+1425,bb6b758c,2,290,GG,55-64,Male,21+ seasons,5,4,6,Just Right,Aware and have NOT used/received
+1426,cb39b40a,2,357,OO,35-44,Female,11-15 season,8,5,10,Just Right,Unaware
+1427,613f9983,2,209,LL,55-64,Female,21+ seasons,5,4,3,Too Few,Aware and have NOT used/received
+1428,a987eb34,2,127,H,25-34,Male,16-20 season,8,6,7,Too Many,Unaware
+1429,39ef0f16,2,153,LL,55-64,Female,1 season,4,5,5,Just Right,Unaware
+1430,f4e13265,2,122,X,45-54,Male,1 season,10,6,9,Just Right,Unaware
+1431,a7cdde42,2,262,A,55-64,Female,2-5 season,9,10,7,Just Right,Unaware
+1432,9fe61c48,2,487,OO,45-54,Female,16-20 season,8,5,7,Too Few,Aware and have NOT used/received
+1433,108c523a,2,504,D,25-34,Male,6-10 season,10,5,2,Too Many,Aware and have NOT used/received
+1434,7198206a,2,312,AA,55-64,Female,2-5 season,8,2,6,Too Few,Aware and have NOT used/received
+1435,462b7d24,2,115,U,45-54,Male,2-5 season,7,7,7,Too Few,Unaware
+1436,8959f372,2,359,K,55-64,Female,6-10 season,9,2,1,Just Right,Aware and have NOT used/received
+1437,57943cd1,2,397,P,55-64,Male,16-20 season,8,3,4,Too Many,Aware and have NOT used/received
+1438,6f6ca67c,2,510,A,65+,Male,6-10 season,8,8,10,Just Right,Aware and have NOT used/received
+1439,b85169ce,2,301,EE,35-44,Male,1 season,9,1,8,Just Right,Unaware
+1440,6b2be8db,2,479,CC,65+,Female,11-20 season,7,8,8,Too Few,Aware and have NOT used/received
+1441,dce66abe,2,229,FF,65+,Male,21+ seasons,8,5,7,Just Right,Unaware
+1442,f3c14b41,2,317,AA,55-64,Male,21+ seasons,7,7,10,Just Right,Aware and have NOT used/received
+1443,606fa85a,2,492,Z,55-64,Male,2-5 season,7,3,8,Just Right,Unaware
+1444,509b8107,2,459,M,55-64,Female,16-20 season,5,10,7,Just Right,Unaware
+1445,d269dc0a,2,109,G,55-64,Male,21+ seasons,8,7,8,Just Right,Unaware
+1446,2ff2bee0,2,493,B,55-64,Female,2-5 season,10,2,9,Just Right,Aware and have NOT used/received
+1447,58192a9f,2,340,GG,65+,Male,21+ seasons,9,8,9,Just Right,Unaware
+1448,aaf34fc1,2,425,O,45-54,Male,2-5 season,9,8,9,Just Right,Unaware
+1449,b69abfe4,2,449,R,45-54,Female,6-10 season,6,2,6,Too Few,Unaware
+1450,af265356,2,338,S,65+,Female,11-15 season,5,3,1,Just Right,Unaware
+1451,8096f7b6,2,321,T,45-54,Male,2-5 season,6,8,9,Too Many,Aware and have used/received
+1452,f3c93a20,2,284,U,25-34,Male,2-5 season,10,2,6,Too Many,Aware and have used/received
+1453,b8a30ed6,2,260,Q,55-64,Female,2-5 season,7,7,7,Just Right,Unaware
+1454,5397231d,2,501,W,35-44,Female,6-10 season,8,6,7,Too Few,Unaware
+1455,c4a1553b,2,398,E,45-54,Male,2-5 season,9,7,9,Just Right,Aware and have NOT used/received
+1456,7.72E+56,2,25,L,55-64,Female,6-10 season,6,5,9,Too Many,Unaware
+1457,947e9732,2,156,CC,35-44,Male,16-20 season,5,1,6,Just Right,Unaware
+1458,b26ef3f8,2,480,GG,35-44,Male,1 season,8,4,9,Just Right,Unaware
+1459,97331863,2,155,NN,65+,Female,21+ seasons,6,2,5,Just Right,Aware and have used/received
+1460,be966683,2,394,O,45-54,Female,11-15 season,5,1,2,Just Right,Aware and have NOT used/received
+1461,920879f8,2,275,F,65+,Male,21+ seasons,9,8,10,Just Right,Unaware
+1462,ec0df39a,2,267,EE,65+,Male,21+ seasons,2,9,2,Too Many,Aware and have NOT used/received
+1463,bb943b3b,2,92,K,35-44,Male,1 season,8,2,7,Just Right,Aware and have NOT used/received
+1464,d3036bd3,2,99,Y,65+,Male,6-10 season,8,2,3,Too Many,Aware and have used/received
+1465,a7cba650,2,189,CC,35-44,Female,2-5 season,5,5,4,Just Right,Aware and have NOT used/received
+1466,f1aaef72,2,438,V,65+,Male,21+ seasons,8,7,6,Just Right,Aware and have used/received
+1467,db0ab115,2,229,Q,25-34,Female,16-20 season,7,8,8,Too Few,Unaware
+1468,2a344333,2,548,S,55-64,Male,21+ seasons,5,2,7,Just Right,Unaware
+1469,04057a2e,2,119,OO,65+,Female,2-5 season,8,3,9,Just Right,Aware and have NOT used/received
+1470,b8314917,2,114,Z,55-64,Female,2-5 season,9,2,6,Just Right,Aware and have used/received
+1471,97cf85c4,2,482,T,65+,Male,21+ seasons,7,9,5,Just Right,Aware and have NOT used/received
+1472,539436a7,2,254,K,65+,Male,21+ seasons,5,5,10,Just Right,Unaware
+1473,8c2a6e86,2,162,P,35-44,Female,21+ seasons,7,2,1,Just Right,Unaware
+1474,2020d5dd,2,464,Y,35-44,Male,1 season,7,7,10,Just Right,Aware and have NOT used/received
+1475,706e9e65,2,543,BB,65+,Male,11-20 season,9,6,9,Just Right,Aware and have NOT used/received
+1476,9662d7df,2,250,B,25-34,Male,2-5 season,7,6,7,Just Right,Unaware
+1477,d40ff034,2,311,GG,55-64,Male,6-10 season,9,4,6,Just Right,Unaware
+1478,c4367d65,2,26,L,55-64,Male,6-10 season,5,5,5,Just Right,Unaware
+1479,d92567dd,2,446,NN,65+,Female,11-15 season,6,10,8,Just Right,Unaware
+1480,a58b7456,2,213,T,55-64,Male,21+ seasons,6,1,7,Just Right,Unaware
+1481,a893c216,2,445,D,65+,Male,21+ seasons,3,2,5,Too Many,Aware and have NOT used/received
+1482,19556bda,2,416,OO,65+,Male,21+ seasons,5,5,5,Too Few,Aware and have NOT used/received
+1483,d4d5a766,2,20,F,55-64,Male,16-20 season,8,7,2,Too Few,Aware and have NOT used/received
+1484,17a58980,2,370,JJ,45-54,Male,1 season,7,6,7,Just Right,Aware and have NOT used/received
+1485,dc709361,2,484,GG,35-44,Male,1 season,7,6,6,Too Many,Unaware
+1486,989c8fc7,2,293,V,25-34,Male,1 season,9,7,1,Just Right,Aware and have NOT used/received
+1487,91167e2a,2,332,H,65+,Male,11-15 season,4,4,8,Just Right,Aware and have NOT used/received
+1488,6830d8a4,2,418,S,45-54,Female,6-10 season,6,8,8,Just Right,Unaware
+1489,0ad2f785,2,323,DD,65+,Male,2-5 season,5,5,8,Just Right,Aware and have NOT used/received
+1490,7c0e5c99,2,309,K,45-54,Male,21+ seasons,2,7,8,Just Right,Aware and have NOT used/received
+1491,eefbb021,2,74,M,35-44,Female,2-5 season,8,4,4,Too Many,Unaware
+1492,2ec0a945,2,191,EE,45-54,Female,11-15 season,3,8,4,Too Many,Unaware
+1493,3147b858,2,331,C,65+,Female,1 season,6,3,5,Just Right,Unaware
+1494,45ada6f5,2,408,O,35-44,Male,1 season,7,4,10,Just Right,Unaware
+1495,862119c3,2,493,Q,65+,Male,21+ seasons,10,8,10,Just Right,Unaware
+1496,fb167d8c,2,234,U,45-54,Male,21+ seasons,4,3,5,Too Many,Unaware
+1497,5241e24c,2,325,DD,45-54,Male,2-5 season,9,7,9,Just Right,Aware and have used/received
+1498,3fc6505d,2,451,KK,45-54,Female,6-10 season,9,4,7,Too Many,Unaware
+1499,2b9fb134,2,425,LL,45-54,Female,2-5 season,7,7,10,Just Right,Aware and have NOT used/received
+1500,244c6e38,2,133,HH,55-64,Female,21+ seasons,5,4,7,Too Few,Unaware
+1501,asdih198,2,25,S,65+,Female,16-20 season,2,10,3,Just Right,Unaware
+1502,740c042c,2,535,B,35-44,Male,1 season,9,4,10,Just Right,Unaware
+1503,e376a530,2,436,J,65+,Male,21+ seasons,7,6,8,Too Few,Unaware
+1504,97d9e302,2,426,Z,55-64,Male,11-20 season,7,6,7,Just Right,Aware and have NOT used/received
+1505,8bb0fbde,2,392,HH,25-34,Male,1 season,10,8,7,Just Right,Aware and have NOT used/received
+1506,6c7bc3d2,2,110,P,45-54,Male,2-5 season,4,7,4,Too Many,Unaware
+1507,d14e9bc2,2,263,J,45-54,Male,2-5 season,10,8,9,Just Right,Unaware
+1508,feaf46e8,2,458,S,55-64,Female,1 season,10,4,2,Too Few,Unaware
+1509,cac9d29c,2,224,K,45-54,Male,1 season,9,6,10,Just Right,Aware and have used/received
+1510,9e808d43,2,64,V,55-64,Male,21+ seasons,10,9,5,Too Few,Aware and have NOT used/received
+1511,f400b320,2,61,P,45-54,Male,11-15 season,8,7,8,Too Few,Unaware
+1512,68818405,2,316,K,65+,Prefer not to answer,21+ seasons,10,5,10,Just Right,Unaware
+1513,4bf56c2a,2,268,B,55-64,Female,6-10 season,10,9,4,Too Few,Unaware
+1514,db83622a,2,412,GG,35-44,Female,16-20 season,4,10,7,Too Many,Unaware
+1515,691dcec9,2,439,J,65+,Male,21+ seasons,4,4,7,Just Right,Unaware
+1516,fd642238,2,311,G,45-54,Female,2-5 season,9,6,2,Just Right,Unaware
+1517,d248482f,2,262,U,45-54,Male,6-10 season,5,1,2,Too Few,Unaware
+1518,a55ab618,2,265,II,25-34,Male,2-5 season,8,2,7,Too Few,Aware and have NOT used/received
+1519,9b4ba774,2,225,I,45-54,Male,11-20 season,2,4,5,Just Right,Aware and have used/received
+1520,f9cd1eb3,2,81,E,25-34,Female,6-10 season,10,8,9,Too Many,Unaware
+1521,70912c4f,2,342,D,65+,Female,21+ seasons,8,7,9,Just Right,Aware and have NOT used/received
+1522,a4381dff,2,208,R,45-54,Male,11-15 season,9,9,2,Too Few,Unaware
+1523,20c7da6d,2,325,J,45-54,Male,2-5 season,7,2,8,Just Right,Unaware
+1524,f5ae0b17,2,510,K,65+,Male,21+ seasons,10,5,7,Just Right,Unaware
+1525,ecb34ac3,2,539,C,45-54,Male,2-5 season,7,4,7,Just Right,Unaware
+1526,37edaac6,2,165,Y,55-64,Male,6-10 season,4,3,7,Just Right,Aware and have NOT used/received
+1527,1d2be107,2,350,E,65+,Male,21+ seasons,10,10,7,Just Right,Aware and have NOT used/received
+1528,9bb41578,2,388,AA,45-54,Female,1 season,10,4,3,Too Many,Unaware
+1529,9435e566,2,174,V,55-64,Male,2-5 season,7,3,8,Just Right,Unaware
+1530,0a1d4c60,2,33,N,35-44,Male,11-15 season,8,1,9,Too Few,Unaware
+1531,e67d7f12,2,476,S,55-64,Male,21+ seasons,2,5,7,Just Right,Unaware
+1532,cd2f691c,2,467,G,35-44,Male,11-20 season,10,7,10,Just Right,Unaware
+1533,6dca06d8,2,426,K,45-54,Female,6-10 season,7,6,5,Too Many,Aware and have NOT used/received
+1534,0cfaa658,2,273,OO,25-34,Female,16-20 season,6,5,5,Too Many,Aware and have NOT used/received
+1535,45a4b22c,2,31,H,55-64,Male,1 season,4,2,2,Too Few,Aware and have NOT used/received
+1536,e287c9f6,2,187,L,35-44,Male,1 season,10,3,10,Just Right,Unaware
+1537,77762337,2,475,O,45-54,Male,11-15 season,9,9,10,Too Few,Unaware
+1538,de795b2f,2,237,AA,35-44,Female,6-10 season,7,1,2,Too Few,Unaware
+1539,89a2bb0f,2,477,D,35-44,Female,6-10 season,6,8,8,Too Many,Aware and have NOT used/received
+1540,5cb6c8a4,2,202,LL,45-54,Male,6-10 season,8,5,10,Just Right,Aware and have NOT used/received
+1541,47d4660e,2,299,FF,55-64,Male,2-5 season,8,6,8,Too Few,Unaware
+1542,1f570518,2,265,DD,45-54,Male,6-10 season,9,6,7,Too Few,Unaware
+1543,e2a5cb12,2,344,II,45-54,Female,6-10 season,8,9,3,Too Few,Aware and have NOT used/received
+1544,7f3899de,2,170,H,45-54,Male,21+ seasons,3,7,7,Just Right,Unaware
+1545,c47f8a60,2,452,DD,55-64,Female,6-10 season,6,4,7,Too Few,Unaware
+1546,4eaa635c,2,429,II,35-44,Male,1 season,9,6,9,Just Right,Unaware
+1547,3623e790,2,82,N,45-54,Male,6-10 season,5,5,10,Just Right,Aware and have NOT used/received
+1548,c203bb27,2,341,L,45-54,Female,1 season,10,9,7,Just Right,Unaware
+1549,b79151e9,2,374,X,55-64,Male,21+ seasons,10,7,10,Just Right,Unaware
+1550,f0dec73e,2,40,L,55-64,Male,21+ seasons,7,7,7,Just Right,Aware and have used/received
+1551,14fa9cd0,2,366,C,55-64,Male,11-20 season,7,2,5,Just Right,Unaware
+1552,a99e5d13,2,324,L,65+,Male,21+ seasons,5,4,5,Just Right,Aware and have used/received
+1553,8525e3a4,2,257,GG,35-44,Female,11-15 season,6,4,1,Too Few,Unaware
+1554,52e7f710,2,115,S,45-54,Male,11-20 season,2,5,10,Just Right,Unaware
+1555,48525b31,2,350,CC,45-54,Male,6-10 season,5,9,10,Too Few,Aware and have NOT used/received
+1556,c44335c4,2,402,M,45-54,Male,1 season,10,7,10,Just Right,Unaware
+1557,c737708a,2,343,D,35-44,Male,1 season,6,1,10,Too Few,Aware and have NOT used/received
+1558,10f00355,2,321,N,35-44,Male,11-20 season,1,1,1,Too Few,Aware and have used/received
+1559,j9zdf82jg,2,123,A,65+,Male,16-20 season,1,8,7,Too Many,Aware and have used/received
+1560,f3847a71,2,181,C,65+,Male,21+ seasons,8,5,8,Just Right,Unaware
+1561,660bc8e8,2,139,JJ,35-44,Male,2-5 season,9,7,8,Just Right,Unaware
+1562,ea0fd270,2,376,Y,65+,Female,11-15 season,7,7,10,Too Few,Unaware
+1563,3307e2bd,2,38,N,45-54,Female,11-15 season,7,10,10,Too Few,Aware and have NOT used/received
+1564,bb46c5e5,2,122,EE,35-44,Male,2-5 season,7,3,5,Too Few,Unaware
+1565,ab606884,2,335,CC,25-34,Male,16-20 season,10,6,4,Too Many,Unaware
+1566,32915c33,2,387,N,65+,Male,6-10 season,2,7,3,Too Many,Unaware
+1567,becdebf2,2,427,NN,55-64,Male,21+ seasons,8,7,8,Just Right,Unaware
+1568,324a2df8,2,121,G,35-44,Male,1 season,10,6,7,Just Right,Aware and have NOT used/received
+1569,671a1046,2,149,M,55-64,Male,2-5 season,8,5,8,Just Right,Unaware
+1570,f0569556,2,209,CC,45-54,Female,6-10 season,4,3,5,Too Few,Unaware
+1571,5fb9242e,2,416,C,65+,Male,21+ seasons,9,7,8,Just Right,Aware and have NOT used/received
+1572,2606a5d2,2,335,II,65+,Male,21+ seasons,8,5,8,Just Right,Aware and have NOT used/received
+1573,31e4fe06,2,138,A,45-54,Female,21+ seasons,5,6,6,Just Right,Aware and have NOT used/received
+1574,c229fe6f,2,185,FF,55-64,Female,6-10 season,8,5,5,Just Right,Unaware
+1575,c409704d,2,225,NN,45-54,Male,2-5 season,8,6,10,Just Right,Aware and have NOT used/received
+1576,e4647a06,2,400,C,45-54,Female,2-5 season,10,10,9,Just Right,Aware and have NOT used/received
+1577,f78a0e01,2,278,LL,55-64,Male,2-5 season,9,7,8,Just Right,Aware and have NOT used/received
+1578,5be4b5e7,2,340,DD,65+,Male,6-10 season,4,9,9,Too Many,Unaware
+1579,b643fb59,2,337,Q,45-54,Male,2-5 season,8,6,9,Just Right,Aware and have NOT used/received
+1580,a3018e5f,2,400,D,65+,Female,11-20 season,8,7,10,Just Right,Unaware
+1581,cf9d95d9,2,381,Z,45-54,Female,2-5 season,9,5,3,Too Few,Aware and have NOT used/received
+1582,d3ef10fb,2,250,II,45-54,Male,2-5 season,7,6,5,Just Right,Unaware
+1583,15de441b,2,215,L,65+,Female,21+ seasons,6,4,5,Too Few,Unaware
+1584,444ec404,2,31,L,55-64,Female,16-20 season,8,6,3,Too Few,Unaware
+1585,ce5ac579,2,118,JJ,55-64,Male,11-15 season,9,1,3,Too Many,Aware and have used/received
+1586,abdc55db,2,376,DD,45-54,Male,2-5 season,9,4,9,Just Right,Unaware
+1587,d4abc7fc,2,167,H,45-54,Male,21+ seasons,4,9,7,Just Right,Aware and have NOT used/received
+1588,48a9bf84,2,228,KK,45-54,Male,2-5 season,7,7,10,Just Right,Unaware
+1589,f857e91a,2,224,Y,55-64,Male,21+ seasons,10,7,10,Just Right,Aware and have used/received
+1590,14188387,2,244,FF,45-54,Male,21+ seasons,6,6,6,Too Few,Unaware
+1591,a8be4bf1,2,455,MM,55-64,Male,2-5 season,9,8,7,Just Right,Unaware
+1592,aec7745c,2,236,U,65+,Male,21+ seasons,6,2,8,Just Right,Unaware
+1593,1c1553e3,2,493,J,45-54,Female,2-5 season,10,7,10,Just Right,Aware and have NOT used/received
+1594,0980shda,2,46,D,65+,Female,16-20 season,2,7,3,Too Many,Aware and have used/received
+1595,1667a6a7,2,397,K,45-54,Male,21+ seasons,2,4,2,Just Right,Unaware
+1596,7549f3d5,2,335,J,45-54,Male,1 season,8,6,6,Just Right,Aware and have NOT used/received
+1597,f9fef7dd,2,351,E,35-44,Female,11-15 season,5,3,4,Just Right,Aware and have NOT used/received
+1598,b766cceb,2,490,AA,45-54,Female,16-20 season,8,7,3,Just Right,Unaware
+1599,591121b1,2,306,W,55-64,Female,2-5 season,7,9,3,Too Few,Aware and have NOT used/received
+1600,9292a71a,2,91,F,45-54,Female,16-20 season,8,4,9,Too Many,Unaware
